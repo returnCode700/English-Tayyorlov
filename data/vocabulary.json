@@ -1,0 +1,4347 @@
+{
+  "format": "Har bir so'z: [english, o'zbekcha, izoh (ixtiyoriy)]",
+  "units": [
+    {
+      "id": 1,
+      "title": "Unit 1",
+      "words": [
+        [
+          "And",
+          "va"
+        ],
+        [
+          "Bag",
+          "sumka"
+        ],
+        [
+          "Book",
+          "kitob"
+        ],
+        [
+          "Bus",
+          "avtobus"
+        ],
+        [
+          "Bye",
+          "hayr"
+        ],
+        [
+          "Camera",
+          "kamera"
+        ],
+        [
+          "Car",
+          "mashina"
+        ],
+        [
+          "Coffee",
+          "kofe"
+        ],
+        [
+          "Computer",
+          "kompyuter"
+        ],
+        [
+          "Cup",
+          "chashka, finjon"
+        ],
+        [
+          "Day",
+          "kun"
+        ],
+        [
+          "English",
+          "ingliz tili"
+        ],
+        [
+          "Every day",
+          "har kuni"
+        ],
+        [
+          "Fine",
+          "yaxshi"
+        ],
+        [
+          "First name",
+          "ism"
+        ],
+        [
+          "Good afternoon",
+          "hayrli kun"
+        ],
+        [
+          "Good morning",
+          "hayrli tong"
+        ],
+        [
+          "Good night",
+          "hayrli tun"
+        ],
+        [
+          "Goodbye",
+          "hayr"
+        ],
+        [
+          "Hamburger",
+          "gamburger"
+        ],
+        [
+          "Have a nice day",
+          "kuningiz yaxshi o'tsin"
+        ],
+        [
+          "Hello",
+          "salom"
+        ],
+        [
+          "House",
+          "uy"
+        ],
+        [
+          "How are you?",
+          "qalaysiz?"
+        ],
+        [
+          "Lovely",
+          "yaxshi, sevimli, yoqimtoy"
+        ],
+        [
+          "My",
+          "mening"
+        ],
+        [
+          "Name",
+          "ism"
+        ],
+        [
+          "Nice to meet you",
+          "tanishganimdan xursandman"
+        ],
+        [
+          "OK",
+          "yaxshi, hammasi joyida"
+        ],
+        [
+          "Phone",
+          "telefon"
+        ],
+        [
+          "Photograph",
+          "surat"
+        ],
+        [
+          "Please",
+          "iltimoq, marhamat"
+        ],
+        [
+          "Sandwich",
+          "sendvich"
+        ],
+        [
+          "See you later",
+          "keyinroq ko'rishguncha"
+        ],
+        [
+          "Sleep well",
+          "yaxshi uhlang"
+        ],
+        [
+          "Surname",
+          "familiya"
+        ],
+        [
+          "Tea",
+          "choy"
+        ],
+        [
+          "Television",
+          "televizor"
+        ],
+        [
+          "Thank you",
+          "sizga rahmat"
+        ],
+        [
+          "Thanks",
+          "rahmat"
+        ],
+        [
+          "This",
+          "bu"
+        ],
+        [
+          "Today",
+          "bugun"
+        ],
+        [
+          "Very well",
+          "juda yaxshi"
+        ],
+        [
+          "What",
+          "nima"
+        ],
+        [
+          "With",
+          "birga, bilan"
+        ],
+        [
+          "Your",
+          "sizning"
+        ],
+        [
+          "One",
+          "bir"
+        ],
+        [
+          "Two",
+          "ikki"
+        ],
+        [
+          "Three",
+          "uch"
+        ],
+        [
+          "Four",
+          "to'rt"
+        ],
+        [
+          "Five",
+          "besh"
+        ],
+        [
+          "Six",
+          "olti"
+        ],
+        [
+          "Seven",
+          "yetti"
+        ],
+        [
+          "Eight",
+          "sakkiz"
+        ],
+        [
+          "Nine",
+          "to'qqiz"
+        ],
+        [
+          "Ten",
+          "o'n"
+        ]
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Unit 2",
+      "words": [
+        [
+          "About",
+          "haqida"
+        ],
+        [
+          "Awful",
+          "mudhish, yomon"
+        ],
+        [
+          "Beautiful",
+          "chiroyli"
+        ],
+        [
+          "Building",
+          "bino"
+        ],
+        [
+          "Center",
+          "markaz"
+        ],
+        [
+          "City",
+          "katta shahar"
+        ],
+        [
+          "Country",
+          "mamlakat"
+        ],
+        [
+          "Doctor",
+          "doktor, shifokor"
+        ],
+        [
+          "Fantastic",
+          "fantastik, zo'r"
+        ],
+        [
+          "Find",
+          "topmoq"
+        ],
+        [
+          "From",
+          "-dan"
+        ],
+        [
+          "Hear",
+          "eshitmoq"
+        ],
+        [
+          "His",
+          "uning (erkak)"
+        ],
+        [
+          "Hospital",
+          "kasalxona"
+        ],
+        [
+          "How old?",
+          "necha yosh?"
+        ],
+        [
+          "Look at",
+          "-ga qaramoq"
+        ],
+        [
+          "Map",
+          "xarita"
+        ],
+        [
+          "Married",
+          "turmush qurgan"
+        ],
+        [
+          "Holiday",
+          "ta'til, bayram"
+        ],
+        [
+          "People",
+          "odamlar"
+        ],
+        [
+          "Really good",
+          "juda yaxshi"
+        ],
+        [
+          "School",
+          "maktab"
+        ],
+        [
+          "These",
+          "mana bular"
+        ],
+        [
+          "Too",
+          "ham, o'ta"
+        ],
+        [
+          "Weather",
+          "ob-havo"
+        ],
+        [
+          "Where?",
+          "qayerda?"
+        ],
+        [
+          "World",
+          "dunyo"
+        ],
+        [
+          "Australia",
+          "Avstraliya"
+        ],
+        [
+          "Brazil",
+          "Braziliya"
+        ],
+        [
+          "Canada",
+          "Kanada"
+        ],
+        [
+          "China",
+          "Xitoy"
+        ],
+        [
+          "Egypt",
+          "Misr"
+        ],
+        [
+          "England",
+          "Angliya"
+        ],
+        [
+          "France",
+          "Frantsiya"
+        ],
+        [
+          "Hungary",
+          "Vengriya"
+        ],
+        [
+          "Italy",
+          "Italiya"
+        ],
+        [
+          "Japan",
+          "Yaponiya"
+        ],
+        [
+          "Russia",
+          "Rossiya"
+        ],
+        [
+          "Spain",
+          "Ispaniya"
+        ],
+        [
+          "The United States",
+          "Qo'shma Shtatlar"
+        ],
+        [
+          "Eleven",
+          "o'n bir"
+        ],
+        [
+          "Twelve",
+          "o'n ikki"
+        ],
+        [
+          "Thirteen",
+          "o'n uch"
+        ],
+        [
+          "Fourteen",
+          "o'n to'rt"
+        ],
+        [
+          "Fifteen",
+          "o'n besh"
+        ],
+        [
+          "Sixteen",
+          "o'n olti"
+        ],
+        [
+          "Seventeen",
+          "o'n yetti"
+        ],
+        [
+          "Eighteen",
+          "o'n sakkiz"
+        ],
+        [
+          "Nineteen",
+          "o'n to'qqiz"
+        ],
+        [
+          "Twenty",
+          "yigirma"
+        ],
+        [
+          "Twenty-one",
+          "yigirma bir"
+        ],
+        [
+          "Twenty-two",
+          "yigirma ikki"
+        ],
+        [
+          "Twenty-three",
+          "yigirma uch"
+        ],
+        [
+          "Twenty-four",
+          "yigirma to'rt"
+        ],
+        [
+          "Twenty-five",
+          "yigirma besh"
+        ],
+        [
+          "Twenty-six",
+          "yigirma olti"
+        ],
+        [
+          "Twenty-seven",
+          "yigirma yetti"
+        ],
+        [
+          "Twenty-eight",
+          "yigirma sakkiz"
+        ],
+        [
+          "Twenty-nine",
+          "yigirma to'qqiz"
+        ],
+        [
+          "Thirty",
+          "o'ttiz"
+        ]
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Unit 3",
+      "words": [
+        [
+          "Address",
+          "manzil"
+        ],
+        [
+          "All",
+          "barcha, hamma"
+        ],
+        [
+          "America",
+          "Amerika"
+        ],
+        [
+          "Another",
+          "boshqa bir"
+        ],
+        [
+          "Audition",
+          "tinglash"
+        ],
+        [
+          "Band",
+          "guruh"
+        ],
+        [
+          "Boy",
+          "bola"
+        ],
+        [
+          "Brother",
+          "aka / uka"
+        ],
+        [
+          "Builder",
+          "quruvchi"
+        ],
+        [
+          "Bus driver",
+          "avtobus haydovchisi"
+        ],
+        [
+          "Businessman",
+          "tadbirkor"
+        ],
+        [
+          "Excited",
+          "zavqlangan"
+        ],
+        [
+          "Excuse",
+          "bahona; kechirmoq"
+        ],
+        [
+          "Forty",
+          "qirq"
+        ],
+        [
+          "Good luck",
+          "omad tilayman"
+        ],
+        [
+          "Great",
+          "zo'r, buyuk"
+        ],
+        [
+          "Happy",
+          "baxtli, xursand"
+        ],
+        [
+          "Here",
+          "shu yer"
+        ],
+        [
+          "Hi",
+          "salom"
+        ],
+        [
+          "Understand",
+          "tushunmoq"
+        ],
+        [
+          "Sorry",
+          "uzr"
+        ],
+        [
+          "Interesting",
+          "qiziqarli"
+        ],
+        [
+          "Interview",
+          "intervyu"
+        ],
+        [
+          "Ireland",
+          "Irlandiya"
+        ],
+        [
+          "Job",
+          "kasb"
+        ],
+        [
+          "Live",
+          "yashamoq"
+        ],
+        [
+          "Magazine",
+          "jurnal"
+        ],
+        [
+          "Now",
+          "hozir"
+        ],
+        [
+          "Nurse",
+          "hamshira"
+        ],
+        [
+          "Tour",
+          "sayohat"
+        ],
+        [
+          "Other",
+          "boshqa"
+        ],
+        [
+          "Over there",
+          "ana u yerda"
+        ],
+        [
+          "Personal information",
+          "shaxsiy informatsiya"
+        ],
+        [
+          "Phone number",
+          "telefon raqami"
+        ],
+        [
+          "Police officer",
+          "politsiya offitseri"
+        ],
+        [
+          "Same",
+          "bir hil"
+        ],
+        [
+          "Scotland",
+          "Shotlandiya"
+        ],
+        [
+          "Shop assistant",
+          "sotuvchi"
+        ],
+        [
+          "Singer",
+          "qo'shiqchi"
+        ],
+        [
+          "Station",
+          "stantsiya"
+        ],
+        [
+          "Sweden",
+          "Shvetsiya"
+        ],
+        [
+          "Thanks a lot",
+          "katta rahmat"
+        ],
+        [
+          "Tired",
+          "charchagan"
+        ],
+        [
+          "Town center",
+          "shahar markazi"
+        ],
+        [
+          "Very",
+          "juda"
+        ],
+        [
+          "Well",
+          "yaxshi"
+        ],
+        [
+          "Winner",
+          "g'olib"
+        ],
+        [
+          "Yet",
+          "hali ham, hanuz"
+        ]
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Unit 4",
+      "words": [
+        [
+          "A lot of",
+          "ko'p"
+        ],
+        [
+          "Accountant",
+          "hisobchi"
+        ],
+        [
+          "Age",
+          "yosh"
+        ],
+        [
+          "Bank manager",
+          "bank menejeri"
+        ],
+        [
+          "Bank",
+          "bank"
+        ],
+        [
+          "Best friend",
+          "eng zo'r do'st"
+        ],
+        [
+          "Big",
+          "katta"
+        ],
+        [
+          "Both",
+          "ikkalasi ham"
+        ],
+        [
+          "Boyfriend",
+          "yigit o'rtoq"
+        ],
+        [
+          "Business card",
+          "biznes kartasi"
+        ],
+        [
+          "Certainly",
+          "albatta"
+        ],
+        [
+          "Children",
+          "bolalar"
+        ],
+        [
+          "College",
+          "kollej"
+        ],
+        [
+          "Come on",
+          "kelaqol, bo'laqol"
+        ],
+        [
+          "Company",
+          "kompaniya"
+        ],
+        [
+          "Connecting",
+          "bog'lab / ulab turgan"
+        ],
+        [
+          "Dance",
+          "raqs tushmoq"
+        ],
+        [
+          "Dictionary",
+          "lug'at"
+        ],
+        [
+          "Dog",
+          "it"
+        ],
+        [
+          "Evening",
+          "kechqurun"
+        ],
+        [
+          "Everybody",
+          "har bir odam"
+        ],
+        [
+          "Family tree",
+          "oila daraxti"
+        ],
+        [
+          "Fan",
+          "ishqiboz, muxlis"
+        ],
+        [
+          "Football",
+          "futbol"
+        ],
+        [
+          "Friend",
+          "do'st"
+        ],
+        [
+          "Funny",
+          "kulgili, qiziqarli"
+        ],
+        [
+          "Germany",
+          "Germaniya"
+        ],
+        [
+          "Girlfriend",
+          "qiz o'rtoq"
+        ],
+        [
+          "Give",
+          "bermoq"
+        ],
+        [
+          "Goal",
+          "gol; maqsad"
+        ],
+        [
+          "Good",
+          "yaxshi"
+        ],
+        [
+          "Have",
+          "ega bo'lmoq"
+        ],
+        [
+          "Home",
+          "uy; vatan"
+        ],
+        [
+          "Hotel",
+          "mehmonxona"
+        ],
+        [
+          "Like",
+          "yoqtirmoq"
+        ],
+        [
+          "Music",
+          "musiqa"
+        ],
+        [
+          "Near",
+          "yaqin"
+        ],
+        [
+          "New",
+          "yangi"
+        ],
+        [
+          "Nice",
+          "yaxshi"
+        ],
+        [
+          "North",
+          "shimol"
+        ],
+        [
+          "Notice",
+          "e'lon; payqamoq"
+        ],
+        [
+          "Of course",
+          "albatta"
+        ],
+        [
+          "Office",
+          "ofis"
+        ],
+        [
+          "Our",
+          "bizning"
+        ],
+        [
+          "Part",
+          "qism"
+        ],
+        [
+          "Part-time",
+          "yarim stavka (ish haqida)"
+        ],
+        [
+          "Police",
+          "politsiya"
+        ],
+        [
+          "Really",
+          "juda; haqiqatdan ham"
+        ],
+        [
+          "Rock 'n' roll",
+          "rok n rol"
+        ],
+        [
+          "Small",
+          "kichik"
+        ],
+        [
+          "Spell",
+          "harflab aytmoq / yozmoq / o'qimoq"
+        ],
+        [
+          "Sports center",
+          "sport markazi"
+        ],
+        [
+          "Their",
+          "ularning"
+        ],
+        [
+          "Together",
+          "birgalikda"
+        ],
+        [
+          "University",
+          "universitet"
+        ],
+        [
+          "Us",
+          "bizni, bizga"
+        ],
+        [
+          "Village",
+          "qishloq"
+        ],
+        [
+          "Want",
+          "xohlamoq"
+        ],
+        [
+          "Brother",
+          "aka, uka"
+        ],
+        [
+          "Daughter",
+          "qiz"
+        ],
+        [
+          "Father",
+          "ota"
+        ],
+        [
+          "Husband",
+          "er"
+        ],
+        [
+          "Mother",
+          "ona"
+        ],
+        [
+          "Parents",
+          "ota-onalar"
+        ],
+        [
+          "Sister",
+          "singil, opa"
+        ],
+        [
+          "Son",
+          "o'g'il"
+        ],
+        [
+          "Wife",
+          "xotin"
+        ]
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Unit 5",
+      "words": [
+        [
+          "Actor",
+          "aktyor"
+        ],
+        [
+          "Arabic",
+          "arabcha"
+        ],
+        [
+          "Beer",
+          "pivo"
+        ],
+        [
+          "Blue",
+          "ko'k"
+        ],
+        [
+          "Cheese",
+          "pishloq"
+        ],
+        [
+          "Chocolate",
+          "shokolad"
+        ],
+        [
+          "Coke",
+          "koka kola"
+        ],
+        [
+          "Come here",
+          "bu yerga kel"
+        ],
+        [
+          "Count",
+          "sanamoq"
+        ],
+        [
+          "Delicious",
+          "shirin"
+        ],
+        [
+          "Drama",
+          "drama; kutilmagan his-hayajonga boy hodisa"
+        ],
+        [
+          "Drink",
+          "ichmoq"
+        ],
+        [
+          "Eat",
+          "yemoq"
+        ],
+        [
+          "Exciting",
+          "zavqli"
+        ],
+        [
+          "Flat",
+          "kvartira"
+        ],
+        [
+          "Food",
+          "ovqat"
+        ],
+        [
+          "Guy",
+          "yigit"
+        ],
+        [
+          "How much",
+          "qancha"
+        ],
+        [
+          "Ice-cream",
+          "muzqaymoq"
+        ],
+        [
+          "Identity",
+          "shaxsiyat"
+        ],
+        [
+          "Language",
+          "til"
+        ],
+        [
+          "List",
+          "ro'yxat"
+        ],
+        [
+          "Love",
+          "sevgi"
+        ],
+        [
+          "Mexico",
+          "Meksika"
+        ],
+        [
+          "Millionaire",
+          "millioner"
+        ],
+        [
+          "Nationality",
+          "millat"
+        ],
+        [
+          "Orange",
+          "apelsin"
+        ],
+        [
+          "Order",
+          "tartib, buyruq"
+        ],
+        [
+          "Pair",
+          "juft"
+        ],
+        [
+          "Party",
+          "ziyofat"
+        ],
+        [
+          "Pizza",
+          "pitsa"
+        ],
+        [
+          "Play",
+          "o'ynamoq; sahna asari"
+        ],
+        [
+          "Portugal",
+          "Portugaliya"
+        ],
+        [
+          "Pound",
+          "funt sterling (Angliya pul birligi)"
+        ],
+        [
+          "Price",
+          "narx"
+        ],
+        [
+          "Restaurant",
+          "restoran"
+        ],
+        [
+          "Skiing",
+          "chang'i uchish"
+        ],
+        [
+          "Sometimes",
+          "ba'zan"
+        ],
+        [
+          "Speak",
+          "gapirmoq"
+        ],
+        [
+          "Swimming",
+          "suzish"
+        ],
+        [
+          "Switzerland",
+          "Shveytsariya"
+        ],
+        [
+          "Tennis",
+          "tennis"
+        ],
+        [
+          "Terrible",
+          "mudhish"
+        ],
+        [
+          "Best",
+          "eng zo'r"
+        ],
+        [
+          "Twin",
+          "egiz"
+        ],
+        [
+          "Waiter",
+          "offitsiant"
+        ],
+        [
+          "Wine",
+          "vino"
+        ],
+        [
+          "American",
+          "Amerikalik"
+        ],
+        [
+          "Brazilian",
+          "Braziliyalik"
+        ],
+        [
+          "Chinese",
+          "Xitoylik"
+        ],
+        [
+          "French",
+          "Frantsuz"
+        ],
+        [
+          "German",
+          "Nemis"
+        ],
+        [
+          "Italian",
+          "Italiyalik"
+        ],
+        [
+          "Japanese",
+          "Yapon"
+        ],
+        [
+          "Mexican",
+          "Meksikalik"
+        ],
+        [
+          "Portuguese",
+          "Portugaliyalik"
+        ],
+        [
+          "Spanish",
+          "Ispaniyalik"
+        ],
+        [
+          "Forty",
+          "qirq"
+        ],
+        [
+          "Fifty",
+          "ellik"
+        ],
+        [
+          "Sixty",
+          "oltmish"
+        ],
+        [
+          "Seventy",
+          "yetmish"
+        ],
+        [
+          "Eighty",
+          "sakson"
+        ],
+        [
+          "Ninety",
+          "to'qson"
+        ],
+        [
+          "One hundred",
+          "yuz"
+        ]
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Unit 6",
+      "words": [
+        [
+          "All day",
+          "butun kun"
+        ],
+        [
+          "Always",
+          "har doim"
+        ],
+        [
+          "Artist",
+          "san'atkor"
+        ],
+        [
+          "As usual",
+          "odatdagidek"
+        ],
+        [
+          "At the weekend",
+          "hafta so'ngida"
+        ],
+        [
+          "Aunt",
+          "hola, amma"
+        ],
+        [
+          "Beach",
+          "plyaj"
+        ],
+        [
+          "Bed",
+          "krovat"
+        ],
+        [
+          "Between",
+          "orasida"
+        ],
+        [
+          "Breakfast",
+          "nonushta"
+        ],
+        [
+          "Businesswoman",
+          "tadbirkor ayol"
+        ],
+        [
+          "Busy",
+          "band"
+        ],
+        [
+          "Buy",
+          "sotib olmoq"
+        ],
+        [
+          "Come",
+          "kelmoq"
+        ],
+        [
+          "Cook",
+          "pishirmoq"
+        ],
+        [
+          "Dad",
+          "dada"
+        ],
+        [
+          "Dinner",
+          "kechki ovqat"
+        ],
+        [
+          "Director",
+          "direktor"
+        ],
+        [
+          "Drive",
+          "haydamoq"
+        ],
+        [
+          "Early",
+          "barvaqt"
+        ],
+        [
+          "Egg",
+          "tuxum"
+        ],
+        [
+          "Fill",
+          "to'ldirmoq"
+        ],
+        [
+          "Get home",
+          "uyga yetib bormoq"
+        ],
+        [
+          "Get up",
+          "turmoq, uyg'onmoq"
+        ],
+        [
+          "Go out",
+          "tashqariga chiqmoq"
+        ],
+        [
+          "Go shopping",
+          "xarid qilishga bormoq"
+        ],
+        [
+          "Go to bed",
+          "uhlamoq"
+        ],
+        [
+          "Good idea",
+          "yaxshi fikr"
+        ],
+        [
+          "Have a shower",
+          "dush qilmoq"
+        ],
+        [
+          "In",
+          "ichida"
+        ],
+        [
+          "Invite",
+          "taklif qilmoq"
+        ],
+        [
+          "Leave",
+          "tark etmoq, tashlab ketmoq"
+        ],
+        [
+          "Lesson",
+          "dars"
+        ],
+        [
+          "Life",
+          "hayot"
+        ],
+        [
+          "Lifestyle",
+          "hayot tarzi"
+        ],
+        [
+          "Lunch",
+          "tushlik"
+        ],
+        [
+          "Morning",
+          "tong"
+        ],
+        [
+          "Never",
+          "hech qachon"
+        ],
+        [
+          "Next",
+          "keyin(gi)"
+        ],
+        [
+          "O'clock",
+          "soat"
+        ],
+        [
+          "Often",
+          "tez-tez"
+        ],
+        [
+          "Paint",
+          "bo'yoq"
+        ],
+        [
+          "Piano",
+          "pianino"
+        ],
+        [
+          "Questionnaire",
+          "so'rovnoma"
+        ],
+        [
+          "Relax",
+          "dam olmoq, yozilmoq, bo'shashmoq"
+        ],
+        [
+          "Schoolday",
+          "maktab kuni"
+        ],
+        [
+          "Sea",
+          "dengiz"
+        ],
+        [
+          "Seaside",
+          "dengiz bo'yi"
+        ],
+        [
+          "Shopping",
+          "harid qilish"
+        ],
+        [
+          "Shower",
+          "dush"
+        ],
+        [
+          "Soon",
+          "tez orada"
+        ],
+        [
+          "Stay",
+          "turmoq, qolmoq"
+        ],
+        [
+          "Stop",
+          "to'xtamoq"
+        ],
+        [
+          "Studio",
+          "studiya"
+        ],
+        [
+          "Taxi",
+          "taksi"
+        ],
+        [
+          "Time",
+          "vaqt"
+        ],
+        [
+          "Toast",
+          "qovurilgan non"
+        ],
+        [
+          "Tomorrow",
+          "ertangi kun, ertaga"
+        ],
+        [
+          "TV",
+          "televizor"
+        ],
+        [
+          "Typical",
+          "odatiy"
+        ],
+        [
+          "Usually",
+          "odatda"
+        ],
+        [
+          "Visit",
+          "tashrif buyurmoq"
+        ],
+        [
+          "Walk",
+          "yurmoq"
+        ],
+        [
+          "Watch",
+          "tomosha qilmoq"
+        ],
+        [
+          "Week",
+          "hafta"
+        ],
+        [
+          "When",
+          "qachon"
+        ],
+        [
+          "Monday",
+          "dushanba"
+        ],
+        [
+          "Tuesday",
+          "seshanba"
+        ],
+        [
+          "Wednesday",
+          "chorshanba"
+        ],
+        [
+          "Thursday",
+          "payshanba"
+        ],
+        [
+          "Friday",
+          "juma"
+        ],
+        [
+          "Saturday",
+          "shanba"
+        ],
+        [
+          "Sunday",
+          "yakshanba"
+        ],
+        [
+          "Adore",
+          "yaxshi ko'rmoq"
+        ],
+        [
+          "Next to",
+          "yonida"
+        ],
+        [
+          "Fast",
+          "tez"
+        ],
+        [
+          "Fog",
+          "tuman"
+        ],
+        [
+          "Rain",
+          "yomg'ir"
+        ]
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Unit 7",
+      "words": [
+        [
+          "Adore",
+          "qattiq sevmoq / hurmat qilmoq"
+        ],
+        [
+          "Amazing",
+          "hayratomuz"
+        ],
+        [
+          "Anything",
+          "hech narsa; har qanday narsa"
+        ],
+        [
+          "Aspirin",
+          "aspirin"
+        ],
+        [
+          "Baby",
+          "go'dak, chaqaloq"
+        ],
+        [
+          "Because",
+          "chunki"
+        ],
+        [
+          "Bedroom",
+          "yotoqxona"
+        ],
+        [
+          "Best",
+          "eng zo'r"
+        ],
+        [
+          "Black",
+          "qora"
+        ],
+        [
+          "Boss",
+          "boshliq, ho'jayin"
+        ],
+        [
+          "Café",
+          "kafe"
+        ],
+        [
+          "Card",
+          "karta"
+        ],
+        [
+          "Carrot",
+          "sabzi"
+        ],
+        [
+          "Catch",
+          "tutmoq"
+        ],
+        [
+          "Cat",
+          "mushuk"
+        ],
+        [
+          "Changing room",
+          "kiyim almashtiradigan hona"
+        ],
+        [
+          "Cheap",
+          "arzon"
+        ],
+        [
+          "Chemist's",
+          "dorixona"
+        ],
+        [
+          "Chile",
+          "Chili"
+        ],
+        [
+          "Chips",
+          "qovurilgan kartoshka"
+        ],
+        [
+          "Clothes",
+          "kiyimlar"
+        ],
+        [
+          "Coat",
+          "palto"
+        ],
+        [
+          "Cold",
+          "sovuq"
+        ],
+        [
+          "Comfortable",
+          "qulay"
+        ],
+        [
+          "Credit card",
+          "kredit karta"
+        ],
+        [
+          "Czech Republic",
+          "Cheh respublikasi"
+        ],
+        [
+          "Degree",
+          "daraja"
+        ],
+        [
+          "Designer",
+          "dizayner"
+        ],
+        [
+          "Divorced",
+          "ajrashgan"
+        ],
+        [
+          "Door",
+          "eshik"
+        ],
+        [
+          "Easy",
+          "oson"
+        ],
+        [
+          "Every",
+          "har bir"
+        ],
+        [
+          "Expensive",
+          "qimmat"
+        ],
+        [
+          "Fashion house",
+          "moda uyi"
+        ],
+        [
+          "Fast",
+          "tez"
+        ],
+        [
+          "Favorite",
+          "sevimli"
+        ],
+        [
+          "Film director",
+          "film direktori / rejisyori"
+        ],
+        [
+          "Fog",
+          "tuman"
+        ],
+        [
+          "Free time",
+          "bo'sh vaqt"
+        ],
+        [
+          "Frenchman",
+          "Frantsuz"
+        ],
+        [
+          "Friendly",
+          "do'stona"
+        ],
+        [
+          "Hat",
+          "shapka, shlyapa"
+        ],
+        [
+          "Hate",
+          "yomon ko'rmoq, nafratlanmoq"
+        ],
+        [
+          "Homework",
+          "uy vazifasi"
+        ],
+        [
+          "Hot",
+          "issiq"
+        ],
+        [
+          "How many",
+          "nechta"
+        ],
+        [
+          "International",
+          "xalqaro"
+        ],
+        [
+          "Jacket",
+          "pidjak, kurtka"
+        ],
+        [
+          "Jumper",
+          "sakrovchi; jemfer"
+        ],
+        [
+          "Kid",
+          "bola"
+        ],
+        [
+          "Large",
+          "katta"
+        ],
+        [
+          "Latte",
+          "kofe turi"
+        ],
+        [
+          "Learn",
+          "o'rganmoq"
+        ],
+        [
+          "Look",
+          "qaramoq"
+        ],
+        [
+          "Machine",
+          "mashina"
+        ],
+        [
+          "Meet",
+          "uchrashmoq, tanishmoq"
+        ],
+        [
+          "Mobile phone",
+          "uyali aloqa telefoni"
+        ],
+        [
+          "Model",
+          "model"
+        ],
+        [
+          "Money",
+          "pul"
+        ],
+        [
+          "Month",
+          "oy"
+        ],
+        [
+          "MP3 player",
+          "mp3 player"
+        ],
+        [
+          "Neighbor",
+          "qo'shni"
+        ],
+        [
+          "Newspaper",
+          "gazeta, ro'znoma"
+        ],
+        [
+          "No problem",
+          "muammo yo'q"
+        ],
+        [
+          "October",
+          "oktyabr"
+        ],
+        [
+          "Old",
+          "eski, qari, yoshi katta"
+        ],
+        [
+          "Over there",
+          "ana u yerda"
+        ],
+        [
+          "Packet",
+          "paket"
+        ],
+        [
+          "Pardon",
+          "uzr"
+        ],
+        [
+          "Parcel",
+          "posilka"
+        ],
+        [
+          "Photographer",
+          "suratkash"
+        ],
+        [
+          "PIN",
+          "PIN"
+        ],
+        [
+          "Place",
+          "joy"
+        ],
+        [
+          "Pop music",
+          "pop musiqasi"
+        ],
+        [
+          "Post",
+          "pochta"
+        ],
+        [
+          "Post Office",
+          "pochtahona"
+        ],
+        [
+          "Postcard",
+          "otkritka"
+        ],
+        [
+          "Present",
+          "sovg'a"
+        ],
+        [
+          "Program",
+          "dastur"
+        ],
+        [
+          "Railway station",
+          "temir yo'l stantsiyasi"
+        ],
+        [
+          "Rain",
+          "yomg'ir"
+        ],
+        [
+          "Red",
+          "qizil"
+        ],
+        [
+          "Return ticket",
+          "borish va qaytish bileti"
+        ],
+        [
+          "Sad",
+          "xafa"
+        ],
+        [
+          "Salad",
+          "salat"
+        ],
+        [
+          "Scales",
+          "tarozi"
+        ],
+        [
+          "Seafood",
+          "dengiz ovqati"
+        ],
+        [
+          "Shampoo",
+          "shampun"
+        ],
+        [
+          "Shoe",
+          "oyoq kiyim"
+        ],
+        [
+          "Shop",
+          "do'kon"
+        ],
+        [
+          "Show",
+          "ko'rsatuv, shou"
+        ],
+        [
+          "Singapore",
+          "Singapur"
+        ],
+        [
+          "Single ticket",
+          "borish bileti"
+        ],
+        [
+          "Song",
+          "qo'shiq"
+        ],
+        [
+          "Stamp",
+          "marka"
+        ],
+        [
+          "Swedish",
+          "Shvetsiyalik"
+        ],
+        [
+          "Take away",
+          "tortib olmoq"
+        ],
+        [
+          "Teach",
+          "o'rgatmoq"
+        ],
+        [
+          "That",
+          "ana u"
+        ],
+        [
+          "Toothpaste",
+          "tish pastasi"
+        ],
+        [
+          "Town",
+          "kichik shahar"
+        ],
+        [
+          "Train",
+          "poyezd"
+        ],
+        [
+          "Try on",
+          "kiyib ko'rmoq"
+        ],
+        [
+          "T-shirt",
+          "futbolka"
+        ],
+        [
+          "Understand",
+          "tushunmoq"
+        ],
+        [
+          "Very much",
+          "juda ko'p"
+        ],
+        [
+          "Website",
+          "websayt"
+        ],
+        [
+          "Wet",
+          "ho'l, nam"
+        ],
+        [
+          "White",
+          "oq"
+        ],
+        [
+          "Who",
+          "kim"
+        ],
+        [
+          "Why",
+          "nima uchun"
+        ],
+        [
+          "Wonderful",
+          "ajoyib"
+        ],
+        [
+          "Wrong",
+          "noto'g'ri"
+        ],
+        [
+          "Yellow",
+          "sariq"
+        ],
+        [
+          "Conversation",
+          "suhbat"
+        ],
+        [
+          "Turn right",
+          "o'ngga burilish"
+        ],
+        [
+          "Go straight on",
+          "to'g'riga yuring"
+        ],
+        [
+          "Turn left",
+          "chapga burilish"
+        ],
+        [
+          "Is it far?",
+          "u uzoqmi?"
+        ]
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Unit 8",
+      "words": [
+        [
+          "Alarm clock",
+          "qo'ng'iroqli soat"
+        ],
+        [
+          "Armchair",
+          "kreslo"
+        ],
+        [
+          "Bathroom",
+          "vannaxona"
+        ],
+        [
+          "Border",
+          "chegara"
+        ],
+        [
+          "Bus station",
+          "avtobus bekati"
+        ],
+        [
+          "Car keys",
+          "mashina kalitlari"
+        ],
+        [
+          "Car park",
+          "mashina to'xtash joyi"
+        ],
+        [
+          "Church",
+          "cherkov"
+        ],
+        [
+          "Cinema",
+          "kinoteatr"
+        ],
+        [
+          "Cooker",
+          "gaz plita"
+        ],
+        [
+          "Cosmopolitan",
+          "ko'p millatli"
+        ],
+        [
+          "Cycling",
+          "velosipedda yurish"
+        ],
+        [
+          "Desk",
+          "parta, yozuv stoli"
+        ],
+        [
+          "Dining room",
+          "ovqatlanish xonasi"
+        ],
+        [
+          "Directions",
+          "ko'rsatmalar"
+        ],
+        [
+          "Drawer",
+          "tortma"
+        ],
+        [
+          "Excellent",
+          "a'lo"
+        ],
+        [
+          "Ferry",
+          "parom, yuk tashuvchi kema"
+        ],
+        [
+          "Festival",
+          "festival, tantanali bayram"
+        ],
+        [
+          "Fishing",
+          "baliq tutish"
+        ],
+        [
+          "Floor",
+          "pol"
+        ],
+        [
+          "Fresh",
+          "sof, yangi"
+        ],
+        [
+          "Fridge",
+          "muzlatgich"
+        ],
+        [
+          "Furniture",
+          "mebel"
+        ],
+        [
+          "Game",
+          "o'yin"
+        ],
+        [
+          "Golf",
+          "golf"
+        ],
+        [
+          "Home town",
+          "vatan, tug'ilgan shahar"
+        ],
+        [
+          "Indian",
+          "Hind"
+        ],
+        [
+          "Kind",
+          "tur"
+        ],
+        [
+          "Kitchen",
+          "oshxona"
+        ],
+        [
+          "Lamp",
+          "lampa, chiroq, fonus"
+        ],
+        [
+          "Laptop",
+          "noutbuk, qo'lda olib yuriladigan kichik kompyuter"
+        ],
+        [
+          "Left",
+          "chap"
+        ],
+        [
+          "Living room",
+          "mehmonxona; kundalik tarzda ishlatiladigan xona"
+        ],
+        [
+          "Mean",
+          "anglatmoq"
+        ],
+        [
+          "Meeting",
+          "uchrashuv"
+        ],
+        [
+          "Mile",
+          "mil, 1.6 km"
+        ],
+        [
+          "Minute",
+          "minut"
+        ],
+        [
+          "Modern",
+          "zamonaviy"
+        ],
+        [
+          "More",
+          "ko'proq"
+        ],
+        [
+          "Mountain",
+          "tog'"
+        ],
+        [
+          "Need",
+          "muhtoj bo'lmoq"
+        ],
+        [
+          "Newsagent",
+          "gazeta kioskasi hodimi"
+        ],
+        [
+          "Next to",
+          "yonida"
+        ],
+        [
+          "Night",
+          "tun"
+        ],
+        [
+          "Opera",
+          "opera"
+        ],
+        [
+          "Park",
+          "park"
+        ],
+        [
+          "Poster",
+          "e'lon, afisha, poster, plakat"
+        ],
+        [
+          "Pub",
+          "qovoqxona"
+        ],
+        [
+          "Quick",
+          "tez"
+        ],
+        [
+          "Right",
+          "o'ng"
+        ],
+        [
+          "Room",
+          "xona"
+        ],
+        [
+          "Run",
+          "yugurmoq"
+        ],
+        [
+          "Sailing",
+          "qayiqda suzish"
+        ],
+        [
+          "Sign",
+          "belgi, alomat; imzo"
+        ],
+        [
+          "Sky",
+          "osmon"
+        ],
+        [
+          "Slow",
+          "sekin"
+        ],
+        [
+          "Snowboarding",
+          "snoubording"
+        ],
+        [
+          "Sofa",
+          "divan"
+        ],
+        [
+          "Some",
+          "bir qancha"
+        ],
+        [
+          "Spectacular",
+          "kuchli taassurot qoldiradigan"
+        ],
+        [
+          "Sports bag",
+          "sport sumkasi"
+        ],
+        [
+          "Spring",
+          "bahor, buloq"
+        ],
+        [
+          "Straight on",
+          "to'g'riga"
+        ],
+        [
+          "Summer",
+          "yoz"
+        ],
+        [
+          "Sunbathe",
+          "quyoshda toblanmoq"
+        ],
+        [
+          "Sunny",
+          "quyoshli"
+        ],
+        [
+          "Thai",
+          "Tailandlik"
+        ],
+        [
+          "Theatre",
+          "teatr"
+        ],
+        [
+          "Tidy",
+          "toza"
+        ],
+        [
+          "Toilet",
+          "hojatxona"
+        ],
+        [
+          "Trainers",
+          "krossovka"
+        ],
+        [
+          "Travel",
+          "sayohat qilmoq"
+        ],
+        [
+          "Trolleybus",
+          "trolleybus"
+        ],
+        [
+          "Turn",
+          "burilmoq"
+        ],
+        [
+          "Under",
+          "ostida"
+        ],
+        [
+          "Wall",
+          "devor"
+        ],
+        [
+          "Warm",
+          "iliq"
+        ],
+        [
+          "Water sport",
+          "suv sporti"
+        ],
+        [
+          "Winter",
+          "qish"
+        ],
+        [
+          "Politician",
+          "siyosatchi"
+        ]
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Unit 9",
+      "words": [
+        [
+          "Art",
+          "san'at"
+        ],
+        [
+          "Austria",
+          "Avstriya"
+        ],
+        [
+          "Back",
+          "orqaga"
+        ],
+        [
+          "Birthday",
+          "tug'ilgan kun"
+        ],
+        [
+          "Born",
+          "tug'ilgan"
+        ],
+        [
+          "Canadian",
+          "Kanadalik"
+        ],
+        [
+          "Charity shop",
+          "xayriya do'koni, ishlatilgan tovarlar do'koni",
+          "a shop where second-hand goods are sold to raise money for a charity"
+        ],
+        [
+          "Colorful",
+          "rangli, rang-barang"
+        ],
+        [
+          "Dear",
+          "aziz, muqaddas"
+        ],
+        [
+          "Do",
+          "qilmoq, bajarmoq"
+        ],
+        [
+          "Eldest",
+          "eng katta (farzand haqida)"
+        ],
+        [
+          "Expert",
+          "mutaxassis"
+        ],
+        [
+          "Famous",
+          "mashhur"
+        ],
+        [
+          "Film company",
+          "film kompaniyasi"
+        ],
+        [
+          "Fingerprint",
+          "barmoq izi"
+        ],
+        [
+          "For sale",
+          "sotuv uchun"
+        ],
+        [
+          "Gallery",
+          "galereya"
+        ],
+        [
+          "Go",
+          "bormoq"
+        ],
+        [
+          "Good time",
+          "yaxshi vaqt"
+        ],
+        [
+          "Grandfather",
+          "bobo"
+        ],
+        [
+          "Grandmother",
+          "buvi"
+        ],
+        [
+          "Gym",
+          "sport zal"
+        ],
+        [
+          "Happy birthday",
+          "tug'ilgan kuningiz bilan"
+        ],
+        [
+          "Horrible",
+          "qo'rqinchli, yomon"
+        ],
+        [
+          "Housework",
+          "uy ishi"
+        ],
+        [
+          "Irish",
+          "Irlandiyalik"
+        ],
+        [
+          "Last year",
+          "o'tgan yili"
+        ],
+        [
+          "Make",
+          "yasamoq"
+        ],
+        [
+          "Mess",
+          "iflos, betartib"
+        ],
+        [
+          "Most",
+          "eng; aksariyat"
+        ],
+        [
+          "Musician",
+          "musiqachi"
+        ],
+        [
+          "Next year",
+          "keyingi yil"
+        ],
+        [
+          "Older",
+          "kattaroq"
+        ],
+        [
+          "Pakistan",
+          "Pokiston"
+        ],
+        [
+          "Pay",
+          "to'lamoq"
+        ],
+        [
+          "Politician",
+          "siyosatchi"
+        ],
+        [
+          "Princess",
+          "malika"
+        ],
+        [
+          "Racing driver",
+          "poyga xaydovchisi"
+        ],
+        [
+          "Real",
+          "haqiqiy"
+        ],
+        [
+          "Rich",
+          "boy"
+        ],
+        [
+          "Saudi Arabia",
+          "Saudiya Arabiston"
+        ],
+        [
+          "Scientist",
+          "olim"
+        ],
+        [
+          "See",
+          "ko'rmoq"
+        ],
+        [
+          "Singer",
+          "qo'shiqchi"
+        ],
+        [
+          "South",
+          "janub"
+        ],
+        [
+          "Still",
+          "hali ham, hanuz"
+        ],
+        [
+          "Story",
+          "hikoya"
+        ],
+        [
+          "Thousand",
+          "ming"
+        ],
+        [
+          "TV company",
+          "Televizyon kompaniya"
+        ],
+        [
+          "Uncle",
+          "tog'a, amaki"
+        ],
+        [
+          "Writer",
+          "yozuvchi"
+        ],
+        [
+          "Year",
+          "yil"
+        ],
+        [
+          "Yesterday",
+          "kecha"
+        ],
+        [
+          "January",
+          "yanvar"
+        ],
+        [
+          "February",
+          "fevral"
+        ],
+        [
+          "March",
+          "mart"
+        ],
+        [
+          "April",
+          "aprel"
+        ],
+        [
+          "May",
+          "may"
+        ],
+        [
+          "June",
+          "iyun"
+        ],
+        [
+          "July",
+          "iyul"
+        ],
+        [
+          "August",
+          "avgust"
+        ],
+        [
+          "September",
+          "senyabr"
+        ],
+        [
+          "October",
+          "oktyabr"
+        ],
+        [
+          "November",
+          "noyabr"
+        ],
+        [
+          "December",
+          "dekabr"
+        ],
+        [
+          "Ordinal numbers",
+          "tartib raqamlari"
+        ],
+        [
+          "First",
+          "birinchi"
+        ],
+        [
+          "Second",
+          "ikkinchi"
+        ],
+        [
+          "Third",
+          "uchinchi"
+        ],
+        [
+          "Fourth",
+          "to'rtinchi"
+        ],
+        [
+          "Fifth",
+          "beshinchi"
+        ],
+        [
+          "Sixth",
+          "oltinchi"
+        ],
+        [
+          "Seventh",
+          "yettinchi"
+        ],
+        [
+          "Eighth",
+          "sakkizinchi"
+        ],
+        [
+          "Ninth",
+          "to'qqizinchi"
+        ],
+        [
+          "Tenth",
+          "o'ninchi"
+        ],
+        [
+          "Eleventh",
+          "o'n birinchi"
+        ],
+        [
+          "Twelfth",
+          "o'n ikkinchi"
+        ],
+        [
+          "Thirteenth",
+          "o'n uchinchi"
+        ],
+        [
+          "Fourteenth",
+          "o'n to'rtinchi"
+        ],
+        [
+          "Fifteenth",
+          "o'n beshinchi"
+        ],
+        [
+          "Sixteenth",
+          "o'n oltinchi"
+        ],
+        [
+          "Seventeenth",
+          "o'n yettinchi"
+        ],
+        [
+          "Eighteenth",
+          "o'n sakkizinchi"
+        ],
+        [
+          "Nineteenth",
+          "o'n to'qqizinchi"
+        ],
+        [
+          "Twentieth",
+          "yigirmanchi"
+        ],
+        [
+          "Thirtieth",
+          "o'ttizinchi"
+        ]
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Unit 10",
+      "words": [
+        [
+          "Ago",
+          "avval"
+        ],
+        [
+          "At",
+          "-da"
+        ],
+        [
+          "Bus tour",
+          "avtobus sayohati"
+        ],
+        [
+          "Camping",
+          "kemping, lager qilish"
+        ],
+        [
+          "Castle",
+          "saroy, qasr"
+        ],
+        [
+          "Cathedral",
+          "bosh cherkov, sobor"
+        ],
+        [
+          "Clean",
+          "tozalamoq; toza"
+        ],
+        [
+          "Coffee bar",
+          "kofe bar"
+        ],
+        [
+          "Dance",
+          "raqs tushmoq"
+        ],
+        [
+          "Date",
+          "sana"
+        ],
+        [
+          "Diner",
+          "huranda"
+        ],
+        [
+          "Enjoy",
+          "rohatlanmoq"
+        ],
+        [
+          "Free",
+          "ozod, tekin"
+        ],
+        [
+          "Get",
+          "erishmoq"
+        ],
+        [
+          "Horse riding",
+          "ot minish"
+        ],
+        [
+          "Ice skating",
+          "muzda uchish"
+        ],
+        [
+          "India",
+          "Hindiston"
+        ],
+        [
+          "Interested",
+          "qiziqqan"
+        ],
+        [
+          "Lake",
+          "ko'l"
+        ],
+        [
+          "Last",
+          "oxirgi, so'nggi"
+        ],
+        [
+          "Late",
+          "kech, kechki"
+        ],
+        [
+          "Leisure activity",
+          "dam olish faoliyati / mashg'uloti"
+        ],
+        [
+          "Listen",
+          "tinglamoq"
+        ],
+        [
+          "Lots",
+          "ko'plab"
+        ],
+        [
+          "Lucky",
+          "omadli"
+        ],
+        [
+          "Market",
+          "bozor"
+        ],
+        [
+          "Meal",
+          "taom, ovqat"
+        ],
+        [
+          "Milk",
+          "sut"
+        ],
+        [
+          "Much",
+          "ko'p"
+        ],
+        [
+          "Museum",
+          "muzey"
+        ],
+        [
+          "Once",
+          "bir marta"
+        ],
+        [
+          "Orange juice",
+          "apelsin sharbati"
+        ],
+        [
+          "Pasta",
+          "makaron"
+        ],
+        [
+          "Playing cards",
+          "o'yin qartalari"
+        ],
+        [
+          "Really?",
+          "rostdanmi?"
+        ],
+        [
+          "Relaxing",
+          "bo'shashtiruvchi, yengillashtiradigan"
+        ],
+        [
+          "Roast beef",
+          "qovurilgan go'sht"
+        ],
+        [
+          "Rugby",
+          "regbi"
+        ],
+        [
+          "Show",
+          "ko'rsatuv, shou"
+        ],
+        [
+          "Sightseeing",
+          "diqqatga sazovor joylarni tomosha qilish"
+        ],
+        [
+          "Sit",
+          "o'tirmoq"
+        ],
+        [
+          "Skiing",
+          "chang'i uchmoq"
+        ],
+        [
+          "Special",
+          "maxsus"
+        ],
+        [
+          "Square",
+          "to'rtburchak, maydon"
+        ],
+        [
+          "Start",
+          "boshlamoq"
+        ],
+        [
+          "Sun",
+          "quyosh"
+        ],
+        [
+          "Swimming pool",
+          "basseyn"
+        ],
+        [
+          "Tour",
+          "sayohat"
+        ],
+        [
+          "Tourist",
+          "sayyoh, turist"
+        ],
+        [
+          "Villa",
+          "hashamatli dacha; villa"
+        ],
+        [
+          "Walk",
+          "yurmoq"
+        ],
+        [
+          "Weekend",
+          "hafta so'ngi"
+        ],
+        [
+          "Windsurfing",
+          "windserfing"
+        ],
+        [
+          "Zoo",
+          "zoopark"
+        ],
+        [
+          "Sailing",
+          "qayiqda suzish"
+        ]
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Unit 11",
+      "words": [
+        [
+          "A little bit",
+          "biroz"
+        ],
+        [
+          "Accident",
+          "tasodif, halokat"
+        ],
+        [
+          "Act",
+          "harakat qilmoq, rol o'ynamoq"
+        ],
+        [
+          "Afraid",
+          "qo'rqqan"
+        ],
+        [
+          "Airport",
+          "aeroport"
+        ],
+        [
+          "Also",
+          "hamda, shuningdek, ham"
+        ],
+        [
+          "Anywhere",
+          "hech qayer; har qanday joy"
+        ],
+        [
+          "Architect",
+          "arxitektor"
+        ],
+        [
+          "Argentina",
+          "Argentina"
+        ],
+        [
+          "Arm",
+          "qo'l"
+        ],
+        [
+          "Athlete",
+          "atlet"
+        ],
+        [
+          "Barbecue",
+          "qo'rada pishirilgan go'sht",
+          "a meal or gathering at which meat, fish, or other food is cooked out of doors on a rack over an open fire or on a portable grill."
+        ],
+        [
+          "Beef",
+          "mol go'shti"
+        ],
+        [
+          "Better",
+          "yaxshiroq"
+        ],
+        [
+          "Bill",
+          "to'lov"
+        ],
+        [
+          "Blog",
+          "shaxsiy websahifa",
+          "a personal website or web page on which an individual records opinions, links to other sites, etc. on a regular basis."
+        ],
+        [
+          "Boring",
+          "zerikarli"
+        ],
+        [
+          "Button",
+          "tugma"
+        ],
+        [
+          "Cake",
+          "tort, keks, pirojniy"
+        ],
+        [
+          "Can",
+          "konserva banka"
+        ],
+        [
+          "Chat",
+          "suhbat, gap sotish"
+        ],
+        [
+          "Chess",
+          "shaxmat"
+        ],
+        [
+          "Communicate",
+          "muloqot qilish"
+        ],
+        [
+          "Computer games",
+          "kompyuter o'yinlari"
+        ],
+        [
+          "Continue",
+          "davom ettirmoq"
+        ],
+        [
+          "Dangerous",
+          "xavfli"
+        ],
+        [
+          "Defense",
+          "himoya"
+        ],
+        [
+          "Department",
+          "bo'lim"
+        ],
+        [
+          "Draw",
+          "chizmoq"
+        ],
+        [
+          "Endless",
+          "benihoya"
+        ],
+        [
+          "Everything",
+          "har bir narsa"
+        ],
+        [
+          "Farmer",
+          "fermer"
+        ],
+        [
+          "Film star",
+          "film yulduzi"
+        ],
+        [
+          "Fluently",
+          "ravon tarzda"
+        ],
+        [
+          "Fly",
+          "uchmoq"
+        ],
+        [
+          "Football player",
+          "futbolchi"
+        ],
+        [
+          "Geography",
+          "geografiya"
+        ],
+        [
+          "Glass",
+          "stakan, shisha"
+        ],
+        [
+          "Grandma",
+          "buvi"
+        ],
+        [
+          "Green",
+          "yashil"
+        ],
+        [
+          "Guitar",
+          "gitara"
+        ],
+        [
+          "Help",
+          "yordam"
+        ],
+        [
+          "History",
+          "tarix"
+        ],
+        [
+          "Horse",
+          "ot"
+        ],
+        [
+          "Hour",
+          "soat"
+        ],
+        [
+          "Hurt",
+          "shikastlamoq, og'ritmoq"
+        ],
+        [
+          "Interpreter",
+          "tarjimon"
+        ],
+        [
+          "Jumbo jet",
+          "katta reaktiv samolyot"
+        ],
+        [
+          "Kind",
+          "tur; mehribon"
+        ],
+        [
+          "Lift",
+          "lift; ko'tar(il)moq"
+        ],
+        [
+          "Lost",
+          "yo'qotgan"
+        ],
+        [
+          "Message",
+          "xabar"
+        ],
+        [
+          "Meter",
+          "metr"
+        ],
+        [
+          "Million",
+          "million"
+        ],
+        [
+          "Miss",
+          "sog'inmoq; o'tkazib yubormoq"
+        ],
+        [
+          "Mostly",
+          "aksariyat hollarda"
+        ],
+        [
+          "Motor racing",
+          "avto poyga"
+        ],
+        [
+          "Musical instrument",
+          "musiqa instrumenti"
+        ],
+        [
+          "Network",
+          "tarmoq"
+        ],
+        [
+          "News",
+          "yangiliklar"
+        ],
+        [
+          "Offer",
+          "taklif qilmoq"
+        ],
+        [
+          "Passport",
+          "passport"
+        ],
+        [
+          "Pilot",
+          "uchuvchi"
+        ],
+        [
+          "Plane",
+          "samolyot"
+        ],
+        [
+          "Pop group",
+          "pop guruhi"
+        ],
+        [
+          "Possible",
+          "bo'lishi mumkin, ehtimol"
+        ],
+        [
+          "Problem",
+          "muammo"
+        ],
+        [
+          "Push",
+          "itarmoq"
+        ],
+        [
+          "Radio",
+          "radio"
+        ],
+        [
+          "Really well",
+          "juda yaxshi"
+        ],
+        [
+          "Request",
+          "iltimos"
+        ],
+        [
+          "Ride",
+          "minmoq"
+        ],
+        [
+          "Safe",
+          "xavfsiz"
+        ],
+        [
+          "Science",
+          "ilm"
+        ],
+        [
+          "Scientist",
+          "olim"
+        ],
+        [
+          "Send",
+          "jo'natmoq"
+        ],
+        [
+          "Share",
+          "bo'lishmoq"
+        ],
+        [
+          "Slowly",
+          "sekin tarzda"
+        ],
+        [
+          "Something",
+          "biron narsa"
+        ],
+        [
+          "Swim",
+          "suzmoq"
+        ],
+        [
+          "Tall",
+          "baland, bo'yi uzun"
+        ],
+        [
+          "Net",
+          "to'r"
+        ],
+        [
+          "Ticket",
+          "chipta"
+        ],
+        [
+          "Ticket machine",
+          "chipta avtomati"
+        ],
+        [
+          "Tractor",
+          "traktor"
+        ],
+        [
+          "Try",
+          "urinmoq, sinab ko'rmoq"
+        ],
+        [
+          "Turn off",
+          "o'chirmoq"
+        ],
+        [
+          "Use",
+          "ishlatmoq, foydalanmoq"
+        ],
+        [
+          "Water",
+          "suv"
+        ],
+        [
+          "What's the matter?",
+          "nima muammo?"
+        ],
+        [
+          "Worldwide",
+          "dunyo bo'ylab"
+        ],
+        [
+          "Young",
+          "yosh"
+        ],
+        [
+          "Some",
+          "biroz"
+        ],
+        [
+          "Sparkling",
+          "gazlangan"
+        ]
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Unit 12",
+      "words": [
+        [
+          "Anyone",
+          "hech kim, har kim"
+        ],
+        [
+          "Anything else?",
+          "yana biron narsa kerakmi?"
+        ],
+        [
+          "Apple pie",
+          "olmali pirog"
+        ],
+        [
+          "Around",
+          "atrofida"
+        ],
+        [
+          "Bar",
+          "bar"
+        ],
+        [
+          "Bean",
+          "loviya"
+        ],
+        [
+          "Bike",
+          "velosiped, mototsikl"
+        ],
+        [
+          "Bookshop",
+          "kitob do'koni"
+        ],
+        [
+          "Bottle",
+          "butilka"
+        ],
+        [
+          "Bread",
+          "non"
+        ],
+        [
+          "Cereal",
+          "boshoqli g'alla o'simliklari"
+        ],
+        [
+          "Chicken",
+          "tovuq, jo'ja, jo'ja go'shti"
+        ],
+        [
+          "Chocolate cake",
+          "shokoladli tort"
+        ],
+        [
+          "Coffee shop",
+          "qahvaxona"
+        ],
+        [
+          "Conditioner",
+          "konditsioner"
+        ],
+        [
+          "Customer",
+          "mijoz"
+        ],
+        [
+          "Describe",
+          "tasvirlamoq, ta'rif bermoq"
+        ],
+        [
+          "Dessert",
+          "dessert"
+        ],
+        [
+          "Diet",
+          "parhez, diyeta"
+        ],
+        [
+          "Dish",
+          "taom, idish"
+        ],
+        [
+          "Dry",
+          "quruq"
+        ],
+        [
+          "Feel",
+          "his etmoq"
+        ],
+        [
+          "First class",
+          "birinchi sinf, birinchi darajali"
+        ],
+        [
+          "Fish",
+          "baliq"
+        ],
+        [
+          "Floor",
+          "pol; qavat"
+        ],
+        [
+          "Follow",
+          "orqasidan bormoq, ergashmoq"
+        ],
+        [
+          "Followed by",
+          "orqasidan kelgan"
+        ],
+        [
+          "Forget",
+          "unutmoq"
+        ],
+        [
+          "Fruit",
+          "meva"
+        ],
+        [
+          "Garden",
+          "bog'"
+        ],
+        [
+          "Gate",
+          "darvoza"
+        ],
+        [
+          "Glass of wine",
+          "bir stakan vino"
+        ],
+        [
+          "Hair",
+          "soch"
+        ],
+        [
+          "Ham",
+          "cho'chqaning son go'shti"
+        ],
+        [
+          "Immediately",
+          "darhol"
+        ],
+        [
+          "Jam",
+          "murabbo"
+        ],
+        [
+          "Juice",
+          "sharbat"
+        ],
+        [
+          "Just",
+          "hozirgina, xuddi shunday"
+        ],
+        [
+          "Kilometer",
+          "kilometr"
+        ],
+        [
+          "Little",
+          "oz, kam, kichkina"
+        ],
+        [
+          "Lunch box",
+          "tushlik qutisi"
+        ],
+        [
+          "Mains",
+          "asosiy taomlar"
+        ],
+        [
+          "Marathon",
+          "marafon"
+        ],
+        [
+          "Maybe",
+          "bo'lishi mumkin, balki"
+        ],
+        [
+          "Mayonnaise",
+          "mayonez"
+        ],
+        [
+          "Meat",
+          "go'sht"
+        ],
+        [
+          "Menu",
+          "menyu, taomnoma"
+        ],
+        [
+          "Mineral water",
+          "mineral suv"
+        ],
+        [
+          "Mixed salad",
+          "aralash salad"
+        ],
+        [
+          "Mobile phone",
+          "uyali aloqa telefoni"
+        ],
+        [
+          "Move into",
+          "ko'chib kirmoq"
+        ],
+        [
+          "Nearly",
+          "deyarli"
+        ],
+        [
+          "Normal",
+          "normal"
+        ],
+        [
+          "On the side",
+          "qo'shimcha tarzda"
+        ],
+        [
+          "Onion",
+          "piyoz"
+        ],
+        [
+          "Ordering",
+          "buyurtma"
+        ],
+        [
+          "Perhaps",
+          "ehtimol"
+        ],
+        [
+          "Plate",
+          "tarelka"
+        ],
+        [
+          "Polite",
+          "muloyim, xushmuomala"
+        ],
+        [
+          "Program",
+          "dastur"
+        ],
+        [
+          "Pull",
+          "tortmoq"
+        ],
+        [
+          "Report",
+          "xabar, hisobot"
+        ],
+        [
+          "Rice",
+          "guruch"
+        ],
+        [
+          "Salmon",
+          "losos (baliq turi)"
+        ],
+        [
+          "Second class",
+          "ikkinchi sinf; ikkinchi darajali"
+        ],
+        [
+          "Service",
+          "xizmat"
+        ],
+        [
+          "Side orders",
+          "asosiy ovqatga qo'shimcha egulik"
+        ],
+        [
+          "Siesta",
+          "tushlik vaqti uxlash / dam olish"
+        ],
+        [
+          "Silly",
+          "ahmoq, tentak, aqli zaif"
+        ],
+        [
+          "Sir",
+          "janob"
+        ],
+        [
+          "Slice",
+          "tilim, burda"
+        ],
+        [
+          "Smaller",
+          "kichikroq"
+        ],
+        [
+          "Smallest",
+          "eng kichik"
+        ],
+        [
+          "Smile",
+          "kulmoq, jilmaymoq"
+        ],
+        [
+          "Smoke",
+          "tutun"
+        ],
+        [
+          "Snack",
+          "engil tamaddi, gazak"
+        ],
+        [
+          "Soup",
+          "sho'rva"
+        ],
+        [
+          "Sparkling",
+          "gazli (suv haqida)"
+        ],
+        [
+          "Stand",
+          "turmoq"
+        ],
+        [
+          "Starter",
+          "birinchi / boshlang'ich taom"
+        ],
+        [
+          "Sugar",
+          "shakar"
+        ],
+        [
+          "Swap",
+          "almashmoq"
+        ],
+        [
+          "Take photos",
+          "suratga olmoq"
+        ],
+        [
+          "Tapas",
+          "Ispancha taom turi",
+          "small Spanish savory dishes, typically served with drinks at a bar"
+        ],
+        [
+          "Thirsty",
+          "chanqagan"
+        ],
+        [
+          "Till",
+          "-gacha"
+        ],
+        [
+          "Tomato",
+          "pomidor"
+        ],
+        [
+          "Too many",
+          "o'ta ko'p (sanaladigan otlar uchun)"
+        ],
+        [
+          "Too much",
+          "o'ta ko'p (sanalmaydigan otlar uchun)"
+        ],
+        [
+          "Us dollars",
+          "AQSH dollari"
+        ],
+        [
+          "Vegetable",
+          "sabzavot"
+        ],
+        [
+          "Wait",
+          "kutmoq"
+        ],
+        [
+          "Waitress",
+          "offitsiantka"
+        ],
+        [
+          "World",
+          "dunyo"
+        ]
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Unit 13",
+      "words": [
+        [
+          "Action",
+          "harakat, faoliyat"
+        ],
+        [
+          "Angry",
+          "jahli chiqqan"
+        ],
+        [
+          "Apartment",
+          "xonadon, turar joy"
+        ],
+        [
+          "Arrive",
+          "yetib kelmoq"
+        ],
+        [
+          "At the moment",
+          "hozir"
+        ],
+        [
+          "Boots",
+          "etiklar; botinkalar"
+        ],
+        [
+          "Bored",
+          "zerikkan"
+        ],
+        [
+          "Bring",
+          "keltirmoq"
+        ],
+        [
+          "Build",
+          "qurmoq"
+        ],
+        [
+          "Business",
+          "biznes"
+        ],
+        [
+          "Call",
+          "chaqirmoq; telefon qilmoq"
+        ],
+        [
+          "Carry",
+          "tashimoq"
+        ],
+        [
+          "Choose",
+          "tanlamoq"
+        ],
+        [
+          "Close",
+          "yopmoq"
+        ],
+        [
+          "Cold",
+          "sovuq"
+        ],
+        [
+          "Color",
+          "rang"
+        ],
+        [
+          "Country house",
+          "dacha"
+        ],
+        [
+          "Do well",
+          "yaxshi bajarmoq"
+        ],
+        [
+          "Dress",
+          "ko'ylak"
+        ],
+        [
+          "End",
+          "yakun"
+        ],
+        [
+          "Especially",
+          "ayniqsa"
+        ],
+        [
+          "Espresso",
+          "espresso (kofe turi)"
+        ],
+        [
+          "Extra",
+          "qo'shimcha, ortiqcha"
+        ],
+        [
+          "Finish",
+          "tugatmoq"
+        ],
+        [
+          "Guess",
+          "taxmin qilmoq"
+        ],
+        [
+          "Happen",
+          "sodir bo'lmoq"
+        ],
+        [
+          "Have a cold",
+          "shamollamoq"
+        ],
+        [
+          "Headache",
+          "bosh og'rig'i"
+        ],
+        [
+          "Help",
+          "yordam bermoq"
+        ],
+        [
+          "Homeless",
+          "uysiz"
+        ],
+        [
+          "Hostel",
+          "arzon mehmonxona; umumiy yotoqxona"
+        ],
+        [
+          "Hungry",
+          "ochqagan"
+        ],
+        [
+          "Jeans",
+          "jinsi"
+        ],
+        [
+          "Lose",
+          "yo'qotmoq"
+        ],
+        [
+          "Open",
+          "ochmoq"
+        ],
+        [
+          "Pleased",
+          "mamnun"
+        ],
+        [
+          "Poor",
+          "kambag'al; bechora"
+        ],
+        [
+          "Private plane",
+          "shaxsiy samolyot"
+        ],
+        [
+          "Public transport",
+          "jamoat transporti"
+        ],
+        [
+          "Put on",
+          "kiymoq"
+        ],
+        [
+          "Remember",
+          "eslamoq"
+        ],
+        [
+          "Road",
+          "yo'l"
+        ],
+        [
+          "Scarf",
+          "sharf"
+        ],
+        [
+          "Secret",
+          "sir"
+        ],
+        [
+          "Sell",
+          "sotmoq"
+        ],
+        [
+          "Shirt",
+          "ko'ylak"
+        ],
+        [
+          "Shorts",
+          "shortik"
+        ],
+        [
+          "Skirt",
+          "yubka"
+        ],
+        [
+          "Sleep",
+          "uhlamoq"
+        ],
+        [
+          "Socks",
+          "paypoqlar"
+        ],
+        [
+          "Someone",
+          "kimdir, biron odam"
+        ],
+        [
+          "Spend money",
+          "pul sarflamoq"
+        ],
+        [
+          "Spend time",
+          "vaqt o'tkazmoq"
+        ],
+        [
+          "Strawberry",
+          "qulupnay"
+        ],
+        [
+          "Successful",
+          "muvaffaqiyatli"
+        ],
+        [
+          "Suit",
+          "kostyum; mos kelmoq"
+        ],
+        [
+          "Take off",
+          "ko'tarilmoq, uchmoq"
+        ],
+        [
+          "Teenage",
+          "o'spirin"
+        ],
+        [
+          "Tie",
+          "galstuk"
+        ],
+        [
+          "Trousers",
+          "shimlar"
+        ],
+        [
+          "Turn on",
+          "yoqmoq"
+        ],
+        [
+          "Turn off",
+          "o'chirmoq"
+        ],
+        [
+          "TV programme",
+          "televizion dastur"
+        ],
+        [
+          "Wear",
+          "kiymoq"
+        ],
+        [
+          "Window",
+          "deraza"
+        ],
+        [
+          "Win",
+          "g'olib chiqmoq"
+        ],
+        [
+          "Work",
+          "ishlamoq"
+        ],
+        [
+          "Worried",
+          "xavotirlangan"
+        ],
+        [
+          "Worth",
+          "arziydigan"
+        ],
+        [
+          "Color",
+          "rang"
+        ],
+        [
+          "Black",
+          "qora"
+        ],
+        [
+          "Blue",
+          "ko'k"
+        ],
+        [
+          "Brown",
+          "malla"
+        ],
+        [
+          "Green",
+          "yashil"
+        ],
+        [
+          "Grey",
+          "kulrang"
+        ],
+        [
+          "Red",
+          "qizil"
+        ],
+        [
+          "White",
+          "oq"
+        ],
+        [
+          "Yellow",
+          "sariq"
+        ]
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Unit 14",
+      "words": [
+        [
+          "Abroad",
+          "chet elda; chet elga"
+        ],
+        [
+          "Across",
+          "narigi tarafida"
+        ],
+        [
+          "All year round",
+          "butun yil"
+        ],
+        [
+          "Along",
+          "bo'ylab, yoqalab"
+        ],
+        [
+          "Assistant",
+          "yordamchi"
+        ],
+        [
+          "Autoroute",
+          "katta yo'l"
+        ],
+        [
+          "Balcony",
+          "balkon, boloxona"
+        ],
+        [
+          "Banana",
+          "banan"
+        ],
+        [
+          "Begin",
+          "boshlamoq"
+        ],
+        [
+          "Belgium",
+          "Belgiya"
+        ],
+        [
+          "Biology",
+          "biologiya"
+        ],
+        [
+          "Party",
+          "ziyofat, bazm"
+        ],
+        [
+          "Bistro",
+          "kichik arzon restoran"
+        ],
+        [
+          "Boat",
+          "qayiq, kema"
+        ],
+        [
+          "Bridge",
+          "ko'prik"
+        ],
+        [
+          "Campus",
+          "o'quv muassasi hududi"
+        ],
+        [
+          "Canal",
+          "kanal"
+        ],
+        [
+          "Carefully",
+          "ehtiyotkorlik / diqqat bilan"
+        ],
+        [
+          "Check",
+          "tekshirmoq"
+        ],
+        [
+          "Chef",
+          "(bosh) oshpaz"
+        ],
+        [
+          "Chemistry",
+          "kimyo"
+        ],
+        [
+          "Connection",
+          "aloqa"
+        ],
+        [
+          "Cost",
+          "narx, baho"
+        ],
+        [
+          "Cruise",
+          "dengiz sayohati"
+        ],
+        [
+          "Developing countries",
+          "rivojlanayotgan davlatlar"
+        ],
+        [
+          "Doctor",
+          "shifokor, doktor"
+        ],
+        [
+          "East",
+          "sharq"
+        ],
+        [
+          "Economics",
+          "iqtisodiyot"
+        ],
+        [
+          "Europe",
+          "Evropa"
+        ],
+        [
+          "Event",
+          "voqea, hodisa"
+        ],
+        [
+          "Exam",
+          "imtihon"
+        ],
+        [
+          "Explain",
+          "tushuntirmoq"
+        ],
+        [
+          "Expression",
+          "ifodalash; ibora"
+        ],
+        [
+          "Flight",
+          "parvoz"
+        ],
+        [
+          "Future",
+          "kelajak"
+        ],
+        [
+          "Grow up",
+          "katta bo'lmoq, o'smoq"
+        ],
+        [
+          "Gymnasium",
+          "gimnaziya; sport zal"
+        ],
+        [
+          "Hope",
+          "umid"
+        ],
+        [
+          "Housewife",
+          "uy bekisi"
+        ],
+        [
+          "How long?",
+          "qancha vaqt"
+        ],
+        [
+          "Imagine",
+          "tasavvur qilmoq"
+        ],
+        [
+          "Important",
+          "muhim"
+        ],
+        [
+          "Jeep",
+          "jip"
+        ],
+        [
+          "Journalist",
+          "jurnalist"
+        ],
+        [
+          "Know",
+          "bilmoq"
+        ],
+        [
+          "Local",
+          "mahalliy"
+        ],
+        [
+          "Medicine",
+          "tibbiyot"
+        ],
+        [
+          "Modern languages",
+          "zamonaviy tillar"
+        ],
+        [
+          "Motorbike",
+          "mototsikl"
+        ],
+        [
+          "Move",
+          "harakat qilmoq, ko'chmoq"
+        ],
+        [
+          "Nearby",
+          "yaqin atrofdagi"
+        ],
+        [
+          "Nervous",
+          "asabiy; hayajonlangan"
+        ],
+        [
+          "Overnight",
+          "tuni bilan; butun tun davomida"
+        ],
+        [
+          "Painter",
+          "rassom, musavvir; bo'yoqchi"
+        ],
+        [
+          "Physics",
+          "fizika"
+        ],
+        [
+          "Plan",
+          "reja"
+        ],
+        [
+          "Pleasure",
+          "huzur, lazzat; mamnuniyat"
+        ],
+        [
+          "Psychology",
+          "psixologiya"
+        ],
+        [
+          "Quickly",
+          "tezlik bilan"
+        ],
+        [
+          "Quite often",
+          "ancha tez-tez"
+        ],
+        [
+          "Research company",
+          "tadqiqot kompaniyasi"
+        ],
+        [
+          "Revision",
+          "tekshiruv; takrorlash"
+        ],
+        [
+          "Ride",
+          "minmoq"
+        ],
+        [
+          "Romantic",
+          "ishqiy; romantik"
+        ],
+        [
+          "Rucksack",
+          "ryukzak"
+        ],
+        [
+          "Safari",
+          "hayvonlarni tomosha yoki ov qilish uchun uyushtirilgan safar",
+          "an expedition to observe or hunt animals in their natural habitat, especially in East Africa"
+        ],
+        [
+          "Same to you",
+          "sizga ham shu tilaklar"
+        ],
+        [
+          "Scottish",
+          "Shotlandiyalik"
+        ],
+        [
+          "See you again soon",
+          "tez orada yana ko'rishguncha"
+        ],
+        [
+          "South Africa",
+          "Janubiy Afrika"
+        ],
+        [
+          "Souvenir",
+          "suvenir, esdalik, yodgorlik"
+        ],
+        [
+          "Steak",
+          "bifshteks; go'sht bo'lagi"
+        ],
+        [
+          "Sunshine",
+          "quyosh nuri"
+        ],
+        [
+          "Tent",
+          "chodir"
+        ],
+        [
+          "There",
+          "u yerda"
+        ],
+        [
+          "Transport",
+          "transport"
+        ],
+        [
+          "Trip",
+          "sayohat"
+        ],
+        [
+          "Tunnel",
+          "tunnel"
+        ],
+        [
+          "Women",
+          "ayollar"
+        ],
+        [
+          "Zambia",
+          "Zambiya",
+          "a landlocked country in central Africa, divided from Zimbabwe by the Zambezi River; pop. 11,862,700 (est. 2009); languages, English (official), various Bantu languages; capital, Lusaka."
+        ],
+        [
+          "Tomorrow",
+          "ertaga"
+        ],
+        [
+          "Looking forward to",
+          "intizorlik bilan kutmoq"
+        ]
+      ]
+    }
+  ]
+}

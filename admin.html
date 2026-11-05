@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="uz"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex"><title>Admin panel</title>
+<style>
+:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:#fff;background:linear-gradient(135deg,#4f46e5,#06b6d4 50%,#ec4899);background-attachment:fixed;line-height:1.55}
+.g{background:rgba(255,255,255,.16);backdrop-filter:blur(18px) saturate(160%);-webkit-backdrop-filter:blur(18px) saturate(160%);border:1px solid rgba(255,255,255,.38);border-radius:20px;box-shadow:0 8px 32px rgba(0,0,0,.18)}
+main{max-width:760px;margin:0 auto;padding:18px}
+h1{font-size:1.6rem;margin:10px 0 4px}h2{margin:0 0 8px}p.s{opacity:.9;margin:0 0 16px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:12px}
+.card{padding:16px;cursor:pointer;transition:.2s;text-align:left;color:#fff;font:inherit}
+.card:hover{transform:translateY(-3px);background:rgba(255,255,255,.26)}
+.card b{display:block;font-size:1.05rem}.card small{opacity:.85}
+.box{padding:20px;margin-top:12px}
+button{font:inherit;color:#fff;cursor:pointer}
+.btn{background:rgba(255,255,255,.28);border:1px solid rgba(255,255,255,.5);border-radius:14px;padding:12px 20px;font-weight:600}
+.btn:hover{background:rgba(255,255,255,.4)}
+.opt{display:block;width:100%;text-align:left;margin:8px 0;padding:13px 16px;border-radius:14px;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35)}
+.opt:hover:not(:disabled){background:rgba(255,255,255,.28)}
+.ok{background:rgba(34,197,94,.55)!important}.no{background:rgba(239,68,68,.55)!important}
+.q{font-size:1.3rem;font-weight:600;margin:6px 0 12px}
+.bl{display:inline-block;min-width:60px;border-bottom:3px solid #fff;text-align:center}
+.exp{margin-top:12px;padding:14px;border-radius:14px;background:rgba(0,0,0,.25)}
+.bar{height:8px;border-radius:8px;background:rgba(255,255,255,.25);overflow:hidden;margin:8px 0 14px}.bar i{display:block;height:100%;background:#fff;transition:.3s}
+.rule table{width:100%;border-collapse:collapse;margin:8px 0}.rule td,.rule th{border:1px solid rgba(255,255,255,.35);padding:6px 8px;text-align:left}
+.rule .sig{display:inline-block;background:rgba(255,255,255,.25);border-radius:10px;padding:2px 9px;margin:2px}
+.top{display:flex;justify-content:space-between;gap:8px;align-items:center}
+.ex{font-style:italic;opacity:.95}
+</style>
+</head><body><main><div id="app"></div></main><script>
+const app=document.getElementById("app");
+const esc=s=>String(s).replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+const fmt=s=>s>=60?(s/60|0)+" daq "+s%60+" son":s+" son";
+function login(msg){app.innerHTML=`<div class="g box" style="text-align:center"><h1>🛠 Admin panel</h1><p class="s">Faqat administrator uchun.</p><input id="pw" type="password" placeholder="Parol" style="width:100%;padding:13px;border-radius:14px;border:1px solid rgba(255,255,255,.5);background:rgba(255,255,255,.2);color:#fff;font:inherit;margin-bottom:12px"><br><button class="btn" id="go">Kirish ▶</button><p id="er">${msg||""}</p></div>`;
+const i=document.getElementById("pw");i.focus();const go=()=>load(i.value);document.getElementById("go").onclick=go;i.onkeydown=e=>{if(e.key==="Enter")go()}}
+async function load(pw){if(!pw)return;try{const r=await fetch("/api/admin",{method:"POST",headers:{"x-admin-password":pw}});if(r.status===401){sessionStorage.removeItem("pw");return login("❌ Parol noto'g'ri")}
+if(!r.ok){const e=await r.json().catch(()=>({}));return login("⚠️ "+(e.error||"Xatolik"))}
+sessionStorage.setItem("pw",pw);show((await r.json()).rows)}catch(e){login("⚠️ Tarmoq xatosi")}}
+function show(d){const m={};d.forEach(r=>{const k=r.uid||r.name,s=m[k]=m[k]||{n:r.name,a:0,ok:0,dn:0,sec:0,last:0,t:{}};s.n=r.name;s.a++;s.ok+=r.ok;s.dn+=r.done;s.sec+=r.sec;s.last=Math.max(s.last,r.ts);const t=s.t[r.topic]=s.t[r.topic]||{ok:0,dn:0,sec:0};t.ok+=r.ok;t.dn+=r.done;t.sec+=r.sec});
+const L=Object.values(m).sort((a,b)=>b.last-a.last);
+app.innerHTML=`<div class="g box"><div class="top"><h2>🛠 Admin panel</h2><span><button class="btn" onclick="load(sessionStorage.getItem('pw'))">🔄</button> <button class="btn" onclick="sessionStorage.removeItem('pw');login()">Chiqish</button></span></div><p>👥 Foydalanuvchilar: <b>${L.length}</b> · 📝 Urinishlar: <b>${d.length}</b></p>${L.length?L.map(s=>`<details class="exp"><summary><b>${esc(s.n)}</b> — ${s.dn?Math.round(s.ok/s.dn*100):0}% to'g'ri (${s.ok}/${s.dn}) · ⏱ ${fmt(s.sec)} · ${s.a} urinish · oxirgi: ${new Date(s.last).toLocaleString()}</summary>${Object.entries(s.t).map(([k,t])=>`<div>• ${esc(k)}: ${t.ok}/${t.dn} (${Math.round(t.ok/t.dn*100)}%) · ${fmt(t.sec)}</div>`).join("")}</details>`).join(""):"<p>Hali hech kim test ishlamagan.</p>"}</div>`}
+const sp=sessionStorage.getItem("pw");sp?load(sp):login();
+</script></body></html>

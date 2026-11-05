@@ -1,0 +1,2214 @@
+{
+  "topics": [
+    {
+      "id": "to-be",
+      "title": "to be",
+      "icon": "🙋",
+      "rule": "<p><b>Ma'nosi:</b> \"bo'lmoq / -man, -san, -dir\". Hozirgi paytda 3 shakli bor:</p><table><tr><th>Kim</th><th>Shakl</th></tr><tr><td>I</td><td>am</td></tr><tr><td>he / she / it / birlik ot</td><td>is</td></tr><tr><td>we / you / they / ko'plik ot</td><td>are</td></tr></table><p>Inkor: am/is/are + <b>not</b>. Savol: to be gap boshiga chiqadi (<i>Are you tired?</i>).</p><p class=\"ex\">She is a teacher. Are they at home?</p><p><b>Signal so'zlar:</b> <span class=\"sig\">now</span><span class=\"sig\">today</span><span class=\"sig\">at the moment</span> — hozirgi holat.</p>",
+      "pattern": "I→am, he/she/it→is, we/you/they→are.",
+      "tip": "Juftlab yodlang: I-AM, HE/SHE/IT-IS, qolganlari-ARE.",
+      "mistake": "\"I is\" yoki \"She are\" deb yozish.",
+      "questions": [
+        {
+          "q": "I ___ a student.",
+          "a": "am",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "explain": "\"I\" bilan faqat \"am\" ishlatiladi."
+        },
+        {
+          "q": "She ___ my sister.",
+          "a": "is",
+          "options": [
+            "is",
+            "am",
+            "are"
+          ],
+          "explain": "She/he/it bilan \"is\" keladi."
+        },
+        {
+          "q": "They ___ at home.",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "They/we/you bilan \"are\" keladi."
+        },
+        {
+          "q": "___ you tired?",
+          "a": "Are",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "explain": "Savolda to be boshiga chiqadi, \"you\" bilan \"are\"."
+        },
+        {
+          "q": "He ___ not a doctor.",
+          "a": "is",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "explain": "\"He\" bilan \"is\" ishlatiladi."
+        },
+        {
+          "q": "The books ___ on the table.",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "Books — ko'plik, shuning uchun \"are\"."
+        },
+        {
+          "q": "My mother ___ a teacher.",
+          "a": "is",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "explain": "Mother = she, birlik, \"is\"."
+        },
+        {
+          "q": "We ___ friends.",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "\"We\" bilan \"are\"."
+        },
+        {
+          "q": "___ it cold today?",
+          "a": "Is",
+          "options": [
+            "Is",
+            "Are",
+            "Am"
+          ],
+          "explain": "\"It\" bilan \"is\"; savolda boshiga chiqadi."
+        },
+        {
+          "q": "I ___ not hungry.",
+          "a": "am",
+          "options": [
+            "am",
+            "is",
+            "are"
+          ],
+          "explain": "\"I\" bilan faqat \"am\"."
+        },
+        {
+          "q": "You ___ late.",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "\"You\" bir kishiga ham \"are\" bilan ishlatiladi."
+        },
+        {
+          "q": "The cat ___ under the bed.",
+          "a": "is",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "explain": "Cat — birlik (bitta mushuk), \"is\"."
+        },
+        {
+          "q": "___ your parents at work?",
+          "a": "Are",
+          "options": [
+            "Are",
+            "Is",
+            "Am"
+          ],
+          "explain": "Parents — ko'plik, \"are\"."
+        },
+        {
+          "q": "Tom and Ann ___ students.",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "Ikki kishi = they, \"are\"."
+        },
+        {
+          "q": "This ___ my bag.",
+          "a": "is",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "explain": "\"This\" — birlik, \"is\"."
+        },
+        {
+          "q": "Where ___ you from?",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "\"You\" bilan doim \"are\" ishlatiladi. Savol so'zi (Where) dan keyin ham to be turadi: Where are you from?"
+        },
+        {
+          "q": "My keys ___ in the bag.",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "Keys ko'plik, shuning uchun \"are\". \"Is\" faqat bitta narsa bilan ishlatiladi."
+        },
+        {
+          "q": "She ___ not at home now.",
+          "a": "is",
+          "options": [
+            "is",
+            "are",
+            "am"
+          ],
+          "explain": "\"She\" bilan doim \"is\" keladi: She is not (isn't) at home."
+        },
+        {
+          "q": "___ I late?",
+          "a": "Am",
+          "options": [
+            "Am",
+            "Is",
+            "Are"
+          ],
+          "explain": "\"I\" savolda ham \"am\" bilan keladi: Am I late? \"Is I\" va \"Are I\" hech qachon ishlatilmaydi."
+        },
+        {
+          "q": "Ali and I ___ classmates.",
+          "a": "are",
+          "options": [
+            "are",
+            "is",
+            "am"
+          ],
+          "explain": "Ali and I = we (ikki kishi), shuning uchun \"are\". \"Am\" faqat yolg'iz \"I\" bilan."
+        }
+      ]
+    },
+    {
+      "id": "present-simple",
+      "title": "Present Simple",
+      "icon": "🔁",
+      "rule": "<p><b>Qachon:</b> doimiy, takroriy ishlar, odatlar va haqiqatlar.</p><p><b>Tuzilishi:</b> I/you/we/they + fe'l. He/she/it + fe'l<b>+s/es</b>.</p><p>Inkor: <b>don't / doesn't</b> + fe'l. Savol: <b>Do / Does</b> + ega + fe'l. <b>Does/doesn't dan keyin -s YO'Q!</b></p><p>-s/-es qoidasi: o, s, ch, sh, x bilan tugasa <b>-es</b> (go→goes, watch→watches). Undosh+y → <b>-ies</b> (study→studies).</p><p class=\"ex\">He plays football every day.</p><p><b>Signal so'zlar:</b> <span class=\"sig\">always</span><span class=\"sig\">usually</span><span class=\"sig\">often</span><span class=\"sig\">sometimes</span><span class=\"sig\">never</span><span class=\"sig\">every day</span><span class=\"sig\">on Mondays</span><span class=\"sig\">once a week</span></p>",
+      "pattern": "he/she/it + fe'l-s. do/does dan keyin -s yo'q.",
+      "tip": "\"S\" gapda faqat bitta joyda bo'ladi: Does she play? (does da s bor, play da yo'q).",
+      "mistake": "\"Does he plays?\" yoki \"He don't\".",
+      "questions": [
+        {
+          "q": "He ___ football every day.",
+          "a": "plays",
+          "options": [
+            "plays",
+            "play",
+            "playing"
+          ],
+          "explain": "He/she/it bilan fe'lga -s qo'shiladi."
+        },
+        {
+          "q": "They ___ English.",
+          "a": "study",
+          "options": [
+            "study",
+            "studies",
+            "studying"
+          ],
+          "explain": "\"They\" bilan -s/-ies yo'q, oddiy fe'l."
+        },
+        {
+          "q": "She ___ to school by bus.",
+          "a": "goes",
+          "options": [
+            "goes",
+            "go",
+            "gos"
+          ],
+          "explain": "\"go\" o bilan tugaydi, shuning uchun -es: goes."
+        },
+        {
+          "q": "Do you ___ tea?",
+          "a": "like",
+          "options": [
+            "like",
+            "likes",
+            "liking"
+          ],
+          "explain": "\"Do\" dan keyin fe'l oddiy shaklda turadi."
+        },
+        {
+          "q": "He doesn't ___ milk.",
+          "a": "drink",
+          "options": [
+            "drink",
+            "drinks",
+            "drinking"
+          ],
+          "explain": "\"doesn't\" dan keyin -s qo'shilmaydi."
+        },
+        {
+          "q": "My dad ___ up at 7 o'clock.",
+          "a": "gets",
+          "options": [
+            "gets",
+            "get",
+            "is getting"
+          ],
+          "explain": "\"My dad\" = he, shuning uchun -s."
+        },
+        {
+          "q": "___ she live here?",
+          "a": "Does",
+          "options": [
+            "Does",
+            "Do",
+            "Is"
+          ],
+          "explain": "\"She\" bilan savolda \"Does\" ishlatiladi."
+        },
+        {
+          "q": "The sun ___ in the east.",
+          "a": "rises",
+          "options": [
+            "rises",
+            "rise",
+            "is rising"
+          ],
+          "explain": "Haqiqat — Present Simple, he/she/it → -s."
+        },
+        {
+          "q": "I ___ breakfast at 8.",
+          "a": "have",
+          "options": [
+            "have",
+            "has",
+            "am have"
+          ],
+          "explain": "\"I\" bilan \"have\", \"has\" faqat he/she/it bilan."
+        },
+        {
+          "q": "She ___ TV on Sundays.",
+          "a": "watches",
+          "options": [
+            "watches",
+            "watchs",
+            "watch"
+          ],
+          "explain": "\"ch\" bilan tugasa -es qo'shiladi."
+        },
+        {
+          "q": "He ___ English.",
+          "a": "studies",
+          "options": [
+            "studies",
+            "studys",
+            "study"
+          ],
+          "explain": "Undosh+y → y tushib -ies bo'ladi."
+        },
+        {
+          "q": "Water ___ at 100°C.",
+          "a": "boils",
+          "options": [
+            "boils",
+            "boil",
+            "is boiling"
+          ],
+          "explain": "Ilmiy haqiqat — Present Simple, -s kerak."
+        },
+        {
+          "q": "Mary ___ like fish.",
+          "a": "doesn't",
+          "options": [
+            "doesn't",
+            "don't",
+            "isn't"
+          ],
+          "explain": "\"Mary\" = she, shuning uchun \"doesn't\"."
+        },
+        {
+          "q": "___ they work on Monday?",
+          "a": "Do",
+          "options": [
+            "Do",
+            "Does",
+            "Are"
+          ],
+          "explain": "\"They\" bilan \"Do\"."
+        },
+        {
+          "q": "My brother usually ___ late.",
+          "a": "sleeps",
+          "options": [
+            "sleeps",
+            "sleep",
+            "is sleeping"
+          ],
+          "explain": "\"Usually\" — Present Simple signal so'zi, he → -s."
+        },
+        {
+          "q": "She never ___ coffee.",
+          "a": "drinks",
+          "options": [
+            "drinks",
+            "drink",
+            "is drinking"
+          ],
+          "explain": "\"Never\" — Present Simple signali. \"She\" birlik, shuning uchun fe'lga -s qo'shiladi: drinks."
+        },
+        {
+          "q": "How often ___ he visit you?",
+          "a": "does",
+          "options": [
+            "does",
+            "do",
+            "is"
+          ],
+          "explain": "\"He\" bilan savolda \"does\" keladi. Visit esa -s siz qoladi, chunki asosiy fe'l oddiy shaklda turadi."
+        },
+        {
+          "q": "We ___ go to school on Sunday.",
+          "a": "don't",
+          "options": [
+            "don't",
+            "doesn't",
+            "aren't"
+          ],
+          "explain": "\"We\" bilan \"don't\". \"Doesn't\" faqat he/she/it bilan ishlatiladi."
+        },
+        {
+          "q": "My sister ___ in a bank.",
+          "a": "works",
+          "options": [
+            "works",
+            "work",
+            "is work"
+          ],
+          "explain": "Doimiy ish joyi — Present Simple. Sister = she, shuning uchun works."
+        },
+        {
+          "q": "___ the train leave at 6?",
+          "a": "Does",
+          "options": [
+            "Does",
+            "Do",
+            "Is"
+          ],
+          "explain": "\"The train\" = it, savol \"Does\" bilan tuziladi. \"Is leave\" grammatik xato."
+        }
+      ]
+    },
+    {
+      "id": "present-continuous",
+      "title": "Present Continuous",
+      "icon": "⏳",
+      "rule": "<p><b>Qachon:</b> aynan hozir yoki shu kunlarda davom etayotgan ish.</p><p><b>Tuzilishi:</b> am/is/are + fe'l<b>+ing</b>.</p><p>Inkor: am/is/are <b>not</b> + -ing. Savol: <i>Are you reading?</i></p><p>-ing qoidasi: make→making (e tushadi), run→running (undosh ikkilanadi).</p><p><b>Diqqat:</b> know, like, love, want, have (egalik) kabi holat fe'llari -ing bilan ishlatilmaydi.</p><p class=\"ex\">Look! It is raining.</p><p><b>Signal so'zlar:</b> <span class=\"sig\">now</span><span class=\"sig\">right now</span><span class=\"sig\">at the moment</span><span class=\"sig\">Look!</span><span class=\"sig\">Listen!</span><span class=\"sig\">today</span></p>",
+      "pattern": "am/is/are + fe'l-ing.",
+      "tip": "Look!, Listen!, now ni ko'rsangiz → to be + ING. know, like, want ga -ing qo'shilmaydi.",
+      "mistake": "\"I am know\" yoki to be ni tushirib qoldirish.",
+      "questions": [
+        {
+          "q": "Look! It ___ now.",
+          "a": "is raining",
+          "options": [
+            "is raining",
+            "rains",
+            "rain"
+          ],
+          "explain": "\"Look!\" va \"now\" — hozir davom etyapti: is + -ing."
+        },
+        {
+          "q": "I ___ a book at the moment.",
+          "a": "am reading",
+          "options": [
+            "am reading",
+            "read",
+            "reads"
+          ],
+          "explain": "\"At the moment\" → am/is/are + -ing."
+        },
+        {
+          "q": "They ___ football now.",
+          "a": "are playing",
+          "options": [
+            "are playing",
+            "play",
+            "is playing"
+          ],
+          "explain": "\"They\" bilan \"are\", \"now\" — Continuous."
+        },
+        {
+          "q": "She ___ TV right now.",
+          "a": "is watching",
+          "options": [
+            "is watching",
+            "watches",
+            "watch"
+          ],
+          "explain": "\"Right now\" → is + -ing."
+        },
+        {
+          "q": "___ you listening to me?",
+          "a": "Are",
+          "options": [
+            "Are",
+            "Do",
+            "Is"
+          ],
+          "explain": "Continuous savolida am/is/are boshiga chiqadi."
+        },
+        {
+          "q": "He ___ running.",
+          "a": "isn't",
+          "options": [
+            "isn't",
+            "doesn't",
+            "don't"
+          ],
+          "explain": "Continuous inkori: is + not + -ing."
+        },
+        {
+          "q": "Listen! Someone ___.",
+          "a": "is singing",
+          "options": [
+            "is singing",
+            "sings",
+            "sing"
+          ],
+          "explain": "\"Listen!\" — hozir bo'layotgan ish."
+        },
+        {
+          "q": "We ___ dinner now.",
+          "a": "are having",
+          "options": [
+            "are having",
+            "have",
+            "has"
+          ],
+          "explain": "\"Now\" signal; \"have\" (ovqat yeyish) -ing bilan ishlatilishi mumkin."
+        },
+        {
+          "q": "The children ___ in the garden.",
+          "a": "are playing",
+          "options": [
+            "are playing",
+            "plays",
+            "is play"
+          ],
+          "explain": "Children — ko'plik, \"are\" + -ing."
+        },
+        {
+          "q": "run + ing = ?",
+          "a": "running",
+          "options": [
+            "running",
+            "runing",
+            "runming"
+          ],
+          "explain": "Qisqa undosh bilan tugasa, undosh ikkilanadi."
+        },
+        {
+          "q": "make + ing = ?",
+          "a": "making",
+          "options": [
+            "making",
+            "makeing",
+            "maming"
+          ],
+          "explain": "Oxiridagi \"e\" tushib qoladi."
+        },
+        {
+          "q": "Be quiet! The baby ___.",
+          "a": "is sleeping",
+          "options": [
+            "is sleeping",
+            "sleeps",
+            "sleep"
+          ],
+          "explain": "Hozir uxlab yotibdi, is + -ing."
+        },
+        {
+          "q": "What ___ you doing?",
+          "a": "are",
+          "options": [
+            "are",
+            "do",
+            "is"
+          ],
+          "explain": "\"You\" bilan \"are\" + -ing."
+        },
+        {
+          "q": "He ___ his car at the moment.",
+          "a": "is washing",
+          "options": [
+            "is washing",
+            "washes",
+            "wash"
+          ],
+          "explain": "\"At the moment\" — Continuous."
+        },
+        {
+          "q": "I ___ the answer.",
+          "a": "know",
+          "options": [
+            "know",
+            "am knowing",
+            "knows"
+          ],
+          "explain": "\"Know\" holat fe'li, -ing shakli bo'lmaydi."
+        },
+        {
+          "q": "Why ___ you crying?",
+          "a": "are",
+          "options": [
+            "are",
+            "do",
+            "is"
+          ],
+          "explain": "Hozir bo'layotgan ish. Continuous savoli: so'roq so'zi + are/is + ega + -ing. \"You\" bilan \"are\"."
+        },
+        {
+          "q": "She is ___ a letter now.",
+          "a": "writing",
+          "options": [
+            "writing",
+            "writeing",
+            "write"
+          ],
+          "explain": "\"Write\" oxiridagi \"e\" tushib, -ing qo'shiladi: writing."
+        },
+        {
+          "q": "Mary ___ sleeping. She is reading.",
+          "a": "isn't",
+          "options": [
+            "isn't",
+            "doesn't",
+            "don't"
+          ],
+          "explain": "Continuous inkori: is + not + -ing. \"Mary\" = she, shuning uchun isn't."
+        },
+        {
+          "q": "Where ___ they going?",
+          "a": "are",
+          "options": [
+            "are",
+            "do",
+            "is"
+          ],
+          "explain": "\"They\" bilan \"are\" keladi: Where are they going?"
+        },
+        {
+          "q": "I ___ my homework at the moment.",
+          "a": "am doing",
+          "options": [
+            "am doing",
+            "do",
+            "does"
+          ],
+          "explain": "\"At the moment\" — hozirgi payt. \"I\" bilan am + doing."
+        }
+      ]
+    },
+    {
+      "id": "can",
+      "title": "can",
+      "icon": "💪",
+      "rule": "<p><b>Ma'nosi:</b> qila olmoq (qobiliyat) yoki ruxsat so'rash.</p><p><b>Tuzilishi:</b> ega + <b>can</b> + fe'l (oddiy shakl). Hamma shaxslarga bir xil: <i>he can</i>, NOT <s>he cans</s>.</p><p>Inkor: <b>can't / cannot</b>. Savol: <b>Can</b> + ega + fe'l? Do/does kerak emas!</p><p class=\"ex\">She can swim. Can you help me?</p>",
+      "pattern": "can + oddiy fe'l.",
+      "tip": "can \"qattiq\" so'z: unga -s, to, do/does yopishmaydi.",
+      "mistake": "\"He cans\" yoki \"Does he can\".",
+      "questions": [
+        {
+          "q": "I ___ swim.",
+          "a": "can",
+          "options": [
+            "can",
+            "cans",
+            "am can"
+          ],
+          "explain": "\"can\" ega bilan o'zgarmaydi."
+        },
+        {
+          "q": "She ___ speak English.",
+          "a": "can",
+          "options": [
+            "can",
+            "cans",
+            "cane"
+          ],
+          "explain": "\"She\" bilan ham \"can\", -s qo'shilmaydi."
+        },
+        {
+          "q": "He can ___ the piano.",
+          "a": "play",
+          "options": [
+            "play",
+            "plays",
+            "playing"
+          ],
+          "explain": "\"can\" dan keyin fe'l oddiy shaklda."
+        },
+        {
+          "q": "___ you help me?",
+          "a": "Can",
+          "options": [
+            "Can",
+            "Do",
+            "Are"
+          ],
+          "explain": "Savolda \"Can\" boshiga chiqadi, do kerak emas."
+        },
+        {
+          "q": "I ___ run fast. I'm too slow.",
+          "a": "can't",
+          "options": [
+            "can't",
+            "don't",
+            "am not"
+          ],
+          "explain": "\"Can't\" = qila olmayman."
+        },
+        {
+          "q": "Birds ___ fly.",
+          "a": "can",
+          "options": [
+            "can",
+            "cans",
+            "are can"
+          ],
+          "explain": "Ko'plik ham \"can\"."
+        },
+        {
+          "q": "She can't ___ the door.",
+          "a": "open",
+          "options": [
+            "open",
+            "opens",
+            "to open"
+          ],
+          "explain": "\"can't\" dan keyin \"to\" va -s qo'shilmaydi."
+        },
+        {
+          "q": "Can he ___?",
+          "a": "swim",
+          "options": [
+            "swim",
+            "swims",
+            "to swim"
+          ],
+          "explain": "\"Can he\" dan keyin oddiy fe'l."
+        },
+        {
+          "q": "Can you swim? Yes, I ___.",
+          "a": "can",
+          "options": [
+            "can",
+            "do",
+            "am"
+          ],
+          "explain": "Qisqa javobda \"can\" takrorlanadi."
+        },
+        {
+          "q": "___ she dance?",
+          "a": "Can",
+          "options": [
+            "Can",
+            "Does",
+            "Is"
+          ],
+          "explain": "\"Can\" savol uchun yetarli, \"does\" kerak emas."
+        },
+        {
+          "q": "He ___ drive a car. He is 8.",
+          "a": "can't",
+          "options": [
+            "can't",
+            "doesn't can",
+            "not can"
+          ],
+          "explain": "Inkor faqat can't bilan tuziladi."
+        },
+        {
+          "q": "We ___ come tomorrow. We're busy.",
+          "a": "can't",
+          "options": [
+            "can't",
+            "don't can",
+            "aren't can"
+          ],
+          "explain": "\"can\" bilan \"don't\" ishlatilmaydi."
+        },
+        {
+          "q": "A fish ___ walk.",
+          "a": "can't",
+          "options": [
+            "can't",
+            "isn't",
+            "don't"
+          ],
+          "explain": "Baliq yurolmaydi: can't."
+        },
+        {
+          "q": "Can you ___ me your pen?",
+          "a": "lend",
+          "options": [
+            "lend",
+            "lends",
+            "lending"
+          ],
+          "explain": "\"Can you\" dan keyin oddiy fe'l."
+        },
+        {
+          "q": "___ they speak Russian?",
+          "a": "Can",
+          "options": [
+            "Can",
+            "Are",
+            "Do"
+          ],
+          "explain": "\"Can\" bilan savol tuziladi."
+        },
+        {
+          "q": "My little brother ___ read yet.",
+          "a": "can't",
+          "options": [
+            "can't",
+            "doesn't can",
+            "isn't"
+          ],
+          "explain": "Qila olmaslik \"can't\" bilan ifodalanadi. \"Doesn't can\" xato, chunki can bilan do/does ishlatilmaydi."
+        },
+        {
+          "q": "___ I open the window? (ruxsat so'rash)",
+          "a": "Can",
+          "options": [
+            "Can",
+            "Do",
+            "Am"
+          ],
+          "explain": "\"Can\" ruxsat so'rashda ham ishlatiladi: Can I...?"
+        },
+        {
+          "q": "She can ___ three languages.",
+          "a": "speak",
+          "options": [
+            "speak",
+            "speaks",
+            "speaking"
+          ],
+          "explain": "\"Can\" dan keyin fe'l oddiy shaklda: speak. \"She\" bo'lsa ham -s qo'shilmaydi."
+        },
+        {
+          "q": "They ___ play tennis well.",
+          "a": "can",
+          "options": [
+            "can",
+            "cans",
+            "are"
+          ],
+          "explain": "\"Can\" ega bilan o'zgarmaydi: they can."
+        },
+        {
+          "q": "What ___ you do?",
+          "a": "can",
+          "options": [
+            "can",
+            "are",
+            "does"
+          ],
+          "explain": "So'roq so'zi + can + ega + fe'l: What can you do?"
+        }
+      ]
+    },
+    {
+      "id": "was-were",
+      "title": "was / were",
+      "icon": "⏪",
+      "rule": "<p><b>Ma'nosi:</b> to be ning o'tgan zamoni.</p><table><tr><th>Kim</th><th>Shakl</th></tr><tr><td>I / he / she / it</td><td>was</td></tr><tr><td>we / you / they</td><td>were</td></tr></table><p>Inkor: wasn't / weren't. Savol: <i>Was he...? Were you...?</i></p><p class=\"ex\">I was at home yesterday.</p><p><b>Signal so'zlar:</b> <span class=\"sig\">yesterday</span><span class=\"sig\">last week</span><span class=\"sig\">ago</span><span class=\"sig\">in 2010</span><span class=\"sig\">last night</span></p>",
+      "pattern": "I/he/she/it → was, we/you/they → were.",
+      "tip": "\"You\" bir kishiga ham were bo'ladi: You were.",
+      "mistake": "\"You was\" yoki \"We was\".",
+      "questions": [
+        {
+          "q": "I ___ at home yesterday.",
+          "a": "was",
+          "options": [
+            "was",
+            "were",
+            "am"
+          ],
+          "explain": "\"Yesterday\" — o'tgan zamon, \"I\" bilan \"was\"."
+        },
+        {
+          "q": "They ___ at school last week.",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "explain": "\"They\" bilan \"were\", \"last week\" — o'tgan."
+        },
+        {
+          "q": "She ___ happy yesterday.",
+          "a": "was",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "explain": "\"She\" bilan \"was\"."
+        },
+        {
+          "q": "We ___ in Paris in 2019.",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "explain": "\"We\" bilan \"were\"."
+        },
+        {
+          "q": "___ he at work last night?",
+          "a": "Was",
+          "options": [
+            "Was",
+            "Were",
+            "Is"
+          ],
+          "explain": "\"He\" bilan \"Was\", \"last night\" o'tgan zamon."
+        },
+        {
+          "q": "You ___ late yesterday.",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "explain": "\"You\" doim \"were\" (o'tgan zamonda)."
+        },
+        {
+          "q": "It ___ cold last winter.",
+          "a": "was",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "explain": "\"It\" bilan \"was\"."
+        },
+        {
+          "q": "The kids ___ in the park an hour ago.",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "explain": "Kids ko'plik; \"ago\" — o'tgan zamon."
+        },
+        {
+          "q": "He ___ not a teacher in 2010.",
+          "a": "was",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "explain": "\"He\" bilan \"was\"."
+        },
+        {
+          "q": "___ you at the party on Friday?",
+          "a": "Were",
+          "options": [
+            "Were",
+            "Was",
+            "Are"
+          ],
+          "explain": "\"You\" bilan \"Were\"."
+        },
+        {
+          "q": "There ___ a book on the table yesterday.",
+          "a": "was",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "explain": "Bitta kitob → \"was\"."
+        },
+        {
+          "q": "There ___ two men in the room.",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "is"
+          ],
+          "explain": "Ikki kishi, ko'plik → \"were\"."
+        },
+        {
+          "q": "My parents ___ in Italy last year.",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "explain": "Parents ko'plik, \"were\"."
+        },
+        {
+          "q": "She ___ born in 1995.",
+          "a": "was",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "explain": "\"She\" va o'tgan zamon, \"was\"."
+        },
+        {
+          "q": "We ___ tired yesterday. We felt fine.",
+          "a": "weren't",
+          "options": [
+            "weren't",
+            "wasn't",
+            "aren't"
+          ],
+          "explain": "\"We\" bilan \"weren't\"."
+        },
+        {
+          "q": "___ the exam difficult yesterday?",
+          "a": "Was",
+          "options": [
+            "Was",
+            "Were",
+            "Is"
+          ],
+          "explain": "\"Exam\" birlik, \"yesterday\" — o'tgan zamon, shuning uchun \"Was\"."
+        },
+        {
+          "q": "My friends ___ at the cinema last night.",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "explain": "\"Friends\" ko'plik, \"last night\" o'tgan zamon: were."
+        },
+        {
+          "q": "I ___ not at school last Monday.",
+          "a": "wasn't",
+          "options": [
+            "wasn't",
+            "weren't",
+            "am not"
+          ],
+          "explain": "\"I\" o'tgan zamonda \"was\" bilan keladi. Inkori: wasn't."
+        },
+        {
+          "q": "Where ___ you last summer?",
+          "a": "were",
+          "options": [
+            "were",
+            "was",
+            "are"
+          ],
+          "explain": "\"You\" o'tgan zamonda doim \"were\"."
+        },
+        {
+          "q": "The weather ___ nice yesterday.",
+          "a": "was",
+          "options": [
+            "was",
+            "were",
+            "is"
+          ],
+          "explain": "\"Weather\" birlik, \"yesterday\" — o'tgan zamon: was."
+        }
+      ]
+    },
+    {
+      "id": "past-simple",
+      "title": "Past Simple",
+      "icon": "📜",
+      "rule": "<p><b>Qachon:</b> o'tgan zamonda tugagan ish.</p><p><b>To'g'ri fe'llar:</b> fe'l + <b>ed</b> (play→played, study→studied).</p><p><b>Noto'g'ri fe'llar:</b> yodlash kerak: go→<b>went</b>, see→<b>saw</b>, have→<b>had</b>, make→<b>made</b>, take→<b>took</b>, write→<b>wrote</b>, get→<b>got</b>, come→<b>came</b>, buy→<b>bought</b>, lose→<b>lost</b>, spend→<b>spent</b>.</p><p>Inkor: <b>didn't</b> + oddiy fe'l. Savol: <b>Did</b> + ega + oddiy fe'l. <b>Did dan keyin 2-shakl ISHLATILMAYDI!</b></p><p class=\"ex\">She went to Samarkand last year.</p><p><b>Signal so'zlar:</b> <span class=\"sig\">yesterday</span><span class=\"sig\">last night</span><span class=\"sig\">two days ago</span><span class=\"sig\">in 2015</span><span class=\"sig\">when I was a child</span></p>",
+      "pattern": "Darakda 2-shakl, did/didn't dan keyin 1-shakl.",
+      "tip": "Did gapda bor bo'lsa, o'tgan zamon belgisi allaqachon berilgan, fe'l \"toza\" qoladi.",
+      "mistake": "\"Did you went?\" yoki \"goed\".",
+      "questions": [
+        {
+          "q": "She ___ to Samarkand last year.",
+          "a": "went",
+          "options": [
+            "went",
+            "goed",
+            "go"
+          ],
+          "explain": "\"go\" noto'g'ri fe'l: go → went."
+        },
+        {
+          "q": "I ___ a film yesterday.",
+          "a": "watched",
+          "options": [
+            "watched",
+            "watch",
+            "watching"
+          ],
+          "explain": "\"Yesterday\" → fe'l + ed."
+        },
+        {
+          "q": "He ___ a letter last week.",
+          "a": "wrote",
+          "options": [
+            "wrote",
+            "writed",
+            "write"
+          ],
+          "explain": "\"write\" noto'g'ri fe'l: wrote."
+        },
+        {
+          "q": "Did you ___ him yesterday?",
+          "a": "see",
+          "options": [
+            "see",
+            "saw",
+            "seen"
+          ],
+          "explain": "\"Did\" dan keyin 1-shakl (see)."
+        },
+        {
+          "q": "They ___ football two days ago.",
+          "a": "played",
+          "options": [
+            "played",
+            "play",
+            "plays"
+          ],
+          "explain": "\"Ago\" — o'tgan zamon, play+ed."
+        },
+        {
+          "q": "She didn't ___ the window.",
+          "a": "break",
+          "options": [
+            "break",
+            "broke",
+            "broken"
+          ],
+          "explain": "\"didn't\" dan keyin oddiy fe'l."
+        },
+        {
+          "q": "We ___ lunch at 1 yesterday.",
+          "a": "had",
+          "options": [
+            "had",
+            "haved",
+            "has"
+          ],
+          "explain": "\"have\" noto'g'ri: had."
+        },
+        {
+          "q": "He ___ his keys yesterday.",
+          "a": "lost",
+          "options": [
+            "lost",
+            "losed",
+            "loses"
+          ],
+          "explain": "\"lose\" noto'g'ri: lost."
+        },
+        {
+          "q": "___ you go out last night?",
+          "a": "Did",
+          "options": [
+            "Did",
+            "Do",
+            "Were"
+          ],
+          "explain": "O'tgan zamon savoli \"Did\" bilan."
+        },
+        {
+          "q": "I ___ a cake last Sunday.",
+          "a": "made",
+          "options": [
+            "made",
+            "maked",
+            "make"
+          ],
+          "explain": "\"make\" noto'g'ri: made."
+        },
+        {
+          "q": "She ___ a lot of money last month.",
+          "a": "spent",
+          "options": [
+            "spent",
+            "spended",
+            "spend"
+          ],
+          "explain": "\"spend\" noto'g'ri: spent."
+        },
+        {
+          "q": "They ___ the bus to work.",
+          "a": "took",
+          "options": [
+            "took",
+            "taked",
+            "take"
+          ],
+          "explain": "\"take\" noto'g'ri: took."
+        },
+        {
+          "q": "He ___ hard last week.",
+          "a": "studied",
+          "options": [
+            "studied",
+            "studyed",
+            "studys"
+          ],
+          "explain": "Undosh+y → -ied."
+        },
+        {
+          "q": "I ___ up at 6 yesterday.",
+          "a": "got",
+          "options": [
+            "got",
+            "getted",
+            "get"
+          ],
+          "explain": "\"get\" noto'g'ri: got."
+        },
+        {
+          "q": "What time did she ___ home?",
+          "a": "come",
+          "options": [
+            "come",
+            "came",
+            "comes"
+          ],
+          "explain": "\"did\" dan keyin oddiy fe'l: come."
+        },
+        {
+          "q": "He ___ his homework last night.",
+          "a": "did",
+          "options": [
+            "did",
+            "do",
+            "done"
+          ],
+          "explain": "\"Do\" noto'g'ri fe'l: do → did. \"Last night\" o'tgan zamon belgisi."
+        },
+        {
+          "q": "They ___ us yesterday.",
+          "a": "saw",
+          "options": [
+            "saw",
+            "seen",
+            "see"
+          ],
+          "explain": "\"See\" noto'g'ri fe'l: see → saw. \"Seen\" boshqa zamonda (Perfect) ishlatiladi."
+        },
+        {
+          "q": "I didn't ___ the film.",
+          "a": "like",
+          "options": [
+            "like",
+            "liked",
+            "likes"
+          ],
+          "explain": "\"Didn't\" o'tgan zamonni o'zi ko'rsatadi, shuning uchun fe'l oddiy shaklda: like."
+        },
+        {
+          "q": "She ___ a new phone last week.",
+          "a": "bought",
+          "options": [
+            "bought",
+            "buyed",
+            "buy"
+          ],
+          "explain": "\"Buy\" noto'g'ri fe'l: buy → bought."
+        },
+        {
+          "q": "When ___ you arrive?",
+          "a": "did",
+          "options": [
+            "did",
+            "do",
+            "were"
+          ],
+          "explain": "Savol: so'roq so'zi + did + ega + oddiy fe'l. Arrive — 1-shaklda qoladi."
+        }
+      ]
+    },
+    {
+      "id": "at-in-on",
+      "title": "at / in / on",
+      "icon": "📍",
+      "rule": "<p><b>Vaqt uchun:</b></p><p><b>AT</b> — aniq soat: at 7 o'clock; at night, at noon, at the weekend.</p><p><b>ON</b> — kun va sana: on Monday, on 5 June, on Saturday evening.</p><p><b>IN</b> — oy, yil, fasl, kun qismi: in May, in 2020, in summer, in the morning.</p><p><b>Joy uchun:</b> <b>at</b> — nuqta (at home, at school), <b>on</b> — sirt ustida (on the table, on the wall), <b>in</b> — ichida/shahar (in the box, in Tashkent).</p>",
+      "pattern": "at - soat, on - kun/sana, in - oy/yil/fasl.",
+      "tip": "Uchburchak: IN eng katta vaqt, ON o'rta (kun), AT eng kichik (soat).",
+      "mistake": "\"in Monday\" yoki \"on May\".",
+      "questions": [
+        {
+          "q": "I wake up ___ 7 o'clock.",
+          "a": "at",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "explain": "Aniq soat bilan \"at\"."
+        },
+        {
+          "q": "My birthday is ___ May.",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Oy nomi bilan \"in\"."
+        },
+        {
+          "q": "We meet ___ Monday.",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Hafta kuni bilan \"on\"."
+        },
+        {
+          "q": "She was born ___ 1998.",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Yil bilan \"in\"."
+        },
+        {
+          "q": "I study ___ the morning.",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Kun qismi bilan \"in the morning\"."
+        },
+        {
+          "q": "See you ___ night.",
+          "a": "at",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "explain": "\"At night\" — istisno shakl."
+        },
+        {
+          "q": "He lives ___ Tashkent.",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Shahar oldidan \"in\"."
+        },
+        {
+          "q": "The book is ___ the table.",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Sirt ustida bo'lsa \"on\"."
+        },
+        {
+          "q": "I'm ___ home.",
+          "a": "at",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "explain": "\"At home\" — qotgan ibora."
+        },
+        {
+          "q": "My birthday is ___ 5 June.",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Aniq sana bilan \"on\"."
+        },
+        {
+          "q": "We travel ___ summer.",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Fasl bilan \"in\"."
+        },
+        {
+          "q": "The cat is ___ the box.",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Ichida bo'lsa \"in\"."
+        },
+        {
+          "q": "The film starts ___ 8 p.m.",
+          "a": "at",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "explain": "Aniq vaqt bilan \"at\"."
+        },
+        {
+          "q": "They go out ___ Saturday evening.",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Hafta kuni + kun qismi → \"on\"."
+        },
+        {
+          "q": "The picture is ___ the wall.",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Devorga yopishgan, sirtda: \"on\"."
+        },
+        {
+          "q": "We have lunch ___ noon.",
+          "a": "at",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "explain": "\"Noon\" — aniq payt, shuning uchun \"at\" (at noon)."
+        },
+        {
+          "q": "The meeting is ___ Friday morning.",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Hafta kuni + kun qismi bo'lsa \"on\": on Friday morning."
+        },
+        {
+          "q": "She is ___ the bus stop.",
+          "a": "at",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "explain": "Bekat — aniq nuqta, shuning uchun \"at\"."
+        },
+        {
+          "q": "I was born ___ 3 March 2005.",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Aniq sana bilan \"on\". Faqat oy yoki yil bo'lsa \"in\" ishlatilardi."
+        },
+        {
+          "q": "He sleeps ___ the afternoon.",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Kun qismi bilan \"in\" ishlatiladi: in the afternoon."
+        }
+      ]
+    },
+    {
+      "id": "some-any-no",
+      "title": "some / any / no",
+      "icon": "🍎",
+      "rule": "<p><b>SOME</b> — darak gaplarda: <i>I have some apples.</i> Shuningdek taklif va iltimosda: <i>Would you like some tea? Can I have some water?</i></p><p><b>ANY</b> — inkor va savol gaplarda: <i>I don't have any money. Do you have any milk?</i></p><p><b>NO</b> = not any. Darak gap shaklida, lekin inkor ma'no beradi: <i>I have no money.</i> (\"no\" bilan fe'l inkor bo'lmaydi.)</p>",
+      "pattern": "some - darak/taklif, any - savol/inkor, no - o'zi inkor.",
+      "tip": "Taklif va iltimosda doim some: Would you like some tea?",
+      "mistake": "\"I don't have no\" yoki \"Do you have some\" (oddiy savolda).",
+      "questions": [
+        {
+          "q": "I have ___ apples.",
+          "a": "some",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "explain": "Darak gapda \"some\" ishlatiladi."
+        },
+        {
+          "q": "Do you have ___ milk?",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "Savol gapda \"any\"."
+        },
+        {
+          "q": "There isn't ___ sugar.",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "Inkor gap (isn't) bilan \"any\"."
+        },
+        {
+          "q": "There is ___ water in the bottle. It's empty.",
+          "a": "no",
+          "options": [
+            "no",
+            "any",
+            "some"
+          ],
+          "explain": "Bo'sh = suv yo'q; \"no\" = \"not any\"."
+        },
+        {
+          "q": "Would you like ___ tea?",
+          "a": "some",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "explain": "Taklif qilishda \"some\"."
+        },
+        {
+          "q": "I don't have ___ friends here.",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "\"don't\" bilan \"any\"."
+        },
+        {
+          "q": "She has ___ money. She is poor.",
+          "a": "no",
+          "options": [
+            "no",
+            "any",
+            "some"
+          ],
+          "explain": "\"Poor\" = puli yo'q, \"no money\"."
+        },
+        {
+          "q": "Can I have ___ water, please?",
+          "a": "some",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "explain": "Iltimosda \"some\"."
+        },
+        {
+          "q": "Are there ___ books on the shelf?",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "Savol gapda \"any\"."
+        },
+        {
+          "q": "We need ___ eggs.",
+          "a": "some",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "explain": "Darak gap → \"some\"."
+        },
+        {
+          "q": "He didn't buy ___ bread.",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "\"didn't\" bilan \"any\"."
+        },
+        {
+          "q": "There are ___ students in the class. It's empty.",
+          "a": "no",
+          "options": [
+            "no",
+            "any",
+            "some"
+          ],
+          "explain": "\"Empty\" = hech kim yo'q → \"no\"."
+        },
+        {
+          "q": "Is there ___ juice in the fridge?",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "Savol gap → \"any\"."
+        },
+        {
+          "q": "I'd like ___ coffee, please.",
+          "a": "some",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "explain": "\"I'd like\" — taklif/iltimos, \"some\"."
+        },
+        {
+          "q": "She hasn't got ___ brothers.",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "\"hasn't\" bilan \"any\"."
+        },
+        {
+          "q": "Is there ___ bread?",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "Oddiy savol gapda \"any\" ishlatiladi."
+        },
+        {
+          "q": "I have ___ questions.",
+          "a": "some",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "explain": "Darak gapda \"some\" keladi: I have some questions."
+        },
+        {
+          "q": "We haven't got ___ time.",
+          "a": "any",
+          "options": [
+            "any",
+            "some",
+            "no"
+          ],
+          "explain": "\"Haven't\" — inkor. Inkor gapda \"any\" ishlatiladi."
+        },
+        {
+          "q": "He has ___ friends. He is lonely.",
+          "a": "no",
+          "options": [
+            "no",
+            "any",
+            "some"
+          ],
+          "explain": "\"Lonely\" — yolg'iz, demak do'sti yo'q. Shuning uchun \"no friends\"."
+        },
+        {
+          "q": "Could I have ___ sugar, please?",
+          "a": "some",
+          "options": [
+            "some",
+            "any",
+            "no"
+          ],
+          "explain": "Iltimos qilishda \"some\" ishlatiladi, savol shaklida bo'lsa ham."
+        }
+      ]
+    },
+    {
+      "id": "future",
+      "title": "Future (will / going to)",
+      "icon": "🚀",
+      "rule": "<p><b>WILL + fe'l</b> — o'sha zahoti qaror, va'da, taxmin (I think...): <i>I'll open the window. I think it will rain.</i></p><p><b>am/is/are GOING TO + fe'l</b> — oldindan rejalashtirilgan ish yoki ko'rinib turgan belgi: <i>We are going to visit Paris. Look at the clouds! It is going to rain.</i></p><p>Inkor: <b>won't</b> (will not). Savol: <b>Will</b> + ega + fe'l? <b>will dan keyin -s, to yo'q.</b></p><p><b>Signal so'zlar:</b> <span class=\"sig\">tomorrow</span><span class=\"sig\">next week</span><span class=\"sig\">next year</span><span class=\"sig\">tonight</span><span class=\"sig\">soon</span><span class=\"sig\">in 2030</span><span class=\"sig\">I think</span><span class=\"sig\">probably</span></p>",
+      "pattern": "will - zahoti qaror/va'da/taxmin, going to - reja/belgi.",
+      "tip": "I think, probably, promise → WILL. Look!, tickets, plan → GOING TO.",
+      "mistake": "\"will\" dan keyin -s yoki to qo'yish; reja o'rniga will ishlatish.",
+      "questions": [
+        {
+          "q": "Look at the clouds! It ___ rain.",
+          "a": "is going to",
+          "options": [
+            "is going to",
+            "will",
+            "going"
+          ],
+          "explain": "Ko'rinib turgan belgi → going to."
+        },
+        {
+          "q": "The phone is ringing. I ___ answer it.",
+          "a": "will",
+          "options": [
+            "will",
+            "am going to",
+            "am"
+          ],
+          "explain": "O'sha zahoti qaror → will."
+        },
+        {
+          "q": "We ___ visit Paris next year. We've bought tickets.",
+          "a": "are going to",
+          "options": [
+            "are going to",
+            "will",
+            "go"
+          ],
+          "explain": "Oldindan reja (chipta olingan) → going to."
+        },
+        {
+          "q": "I think he ___ win.",
+          "a": "will",
+          "options": [
+            "will",
+            "is",
+            "are"
+          ],
+          "explain": "\"I think\" — taxmin, will."
+        },
+        {
+          "q": "They ___ come tomorrow.",
+          "a": "won't",
+          "options": [
+            "won't",
+            "don't won't",
+            "aren't"
+          ],
+          "explain": "Inkori: will not = won't."
+        },
+        {
+          "q": "___ she go to the party next week?",
+          "a": "Will",
+          "options": [
+            "Will",
+            "Does",
+            "Is"
+          ],
+          "explain": "Kelasi zamon savoli \"Will\" bilan."
+        },
+        {
+          "q": "She is pregnant. She ___ have a baby.",
+          "a": "is going to",
+          "options": [
+            "is going to",
+            "will has",
+            "is have"
+          ],
+          "explain": "Ko'rinib turgan belgi → going to."
+        },
+        {
+          "q": "It's hot. I ___ open the window.",
+          "a": "will",
+          "options": [
+            "will",
+            "am going",
+            "going to"
+          ],
+          "explain": "O'sha zahoti qaror → will."
+        },
+        {
+          "q": "Will you ___ me?",
+          "a": "help",
+          "options": [
+            "help",
+            "helps",
+            "helping"
+          ],
+          "explain": "\"will\" dan keyin oddiy fe'l."
+        },
+        {
+          "q": "She will ___ tomorrow.",
+          "a": "arrive",
+          "options": [
+            "arrive",
+            "arrives",
+            "arrived"
+          ],
+          "explain": "\"will\" dan keyin 1-shakl."
+        },
+        {
+          "q": "We ___ move house next month. It's decided.",
+          "a": "are going to",
+          "options": [
+            "are going to",
+            "will going to",
+            "are go to"
+          ],
+          "explain": "Qaror qilingan reja → am/is/are going to."
+        },
+        {
+          "q": "I'm sure you ___ pass the exam.",
+          "a": "will",
+          "options": [
+            "will",
+            "are going",
+            "do"
+          ],
+          "explain": "\"I'm sure\" — ishonch bilan taxmin, will."
+        },
+        {
+          "q": "I promise I ___ help you.",
+          "a": "will",
+          "options": [
+            "will",
+            "am going",
+            "do"
+          ],
+          "explain": "Va'da → will."
+        },
+        {
+          "q": "He ___ be a pilot. He has always wanted it.",
+          "a": "is going to",
+          "options": [
+            "is going to",
+            "will is",
+            "going"
+          ],
+          "explain": "Uzoq rejasi bor → is going to."
+        },
+        {
+          "q": "Next week we ___ in London.",
+          "a": "will be",
+          "options": [
+            "will be",
+            "are",
+            "were"
+          ],
+          "explain": "\"Next week\" — kelasi zamon, will be."
+        },
+        {
+          "q": "I'm tired. I think I ___ go to bed.",
+          "a": "will",
+          "options": [
+            "will",
+            "am going to",
+            "do"
+          ],
+          "explain": "\"I think\" va o'sha zahoti qaror, shuning uchun will."
+        },
+        {
+          "q": "We ___ a party on Saturday. We've invited everyone.",
+          "a": "are going to have",
+          "options": [
+            "are going to have",
+            "will having",
+            "have going"
+          ],
+          "explain": "Odamlarni taklif qilgan, demak oldindan reja: going to."
+        },
+        {
+          "q": "___ you going to buy a car?",
+          "a": "Are",
+          "options": [
+            "Are",
+            "Will",
+            "Do"
+          ],
+          "explain": "Going to bilan savol: am/is/are + ega + going to."
+        },
+        {
+          "q": "Tomorrow it ___ sunny.",
+          "a": "will be",
+          "options": [
+            "will be",
+            "is",
+            "was"
+          ],
+          "explain": "\"Tomorrow\" — kelasi zamon. Ob-havo bashorati: will be."
+        },
+        {
+          "q": "They ___ buy a house. They've saved money.",
+          "a": "are going to",
+          "options": [
+            "are going to",
+            "will to",
+            "is going to"
+          ],
+          "explain": "Pul yig'ib qo'yishgan, demak reja bor. \"They\" bilan \"are going to\"."
+        }
+      ]
+    },
+    {
+      "id": "signal-words",
+      "title": "Signal so'zlar",
+      "icon": "🔔",
+      "rule": "<p><b>Present Simple:</b> <span class=\"sig\">always</span><span class=\"sig\">usually</span><span class=\"sig\">often</span><span class=\"sig\">sometimes</span><span class=\"sig\">never</span><span class=\"sig\">every day</span></p><p><b>Present Continuous:</b> <span class=\"sig\">now</span><span class=\"sig\">at the moment</span><span class=\"sig\">right now</span><span class=\"sig\">Look!</span><span class=\"sig\">Listen!</span></p><p><b>Past Simple:</b> <span class=\"sig\">yesterday</span><span class=\"sig\">last week</span><span class=\"sig\">ago</span><span class=\"sig\">in 2010</span><span class=\"sig\">last night</span></p><p><b>Future (kelasi zamon):</b> <span class=\"sig\">tomorrow</span><span class=\"sig\">next week / next year</span><span class=\"sig\">tonight</span><span class=\"sig\">soon</span><span class=\"sig\">in 2030</span></p><p><b>WILL</b> bilan keladigan signallar: <span class=\"sig\">I think</span><span class=\"sig\">probably</span><span class=\"sig\">I'm sure</span><span class=\"sig\">I promise</span> — taxmin, va'da, o'sha zahoti qaror.</p><p><b>am/is/are GOING TO</b> bilan keladigan signallar: <span class=\"sig\">Look!</span><span class=\"sig\">I've bought tickets</span><span class=\"sig\">I've decided</span><span class=\"sig\">plan</span> — oldindan reja va ko'rinib turgan belgi.</p><p><b>Predloglar:</b> at = soat, on = kun/sana, in = oy/yil/fasl.</p>",
+      "pattern": "Signalni ko'rsangiz zamonni darhol ayting.",
+      "tip": "always→Present Simple, now→Present Continuous, ago→Past Simple, tomorrow→Future.",
+      "mistake": "Signal so'zga qaramay gapni tarjima qilib taxmin qilish.",
+      "questions": [
+        {
+          "q": "\"yesterday\" qaysi zamon signali?",
+          "a": "Past Simple",
+          "options": [
+            "Past Simple",
+            "Present Simple",
+            "Future"
+          ],
+          "explain": "Yesterday = kecha, o'tgan zamon."
+        },
+        {
+          "q": "\"every day\" qaysi zamon signali?",
+          "a": "Present Simple",
+          "options": [
+            "Present Simple",
+            "Present Continuous",
+            "Past Simple"
+          ],
+          "explain": "Every day = har kuni, takroriy ish."
+        },
+        {
+          "q": "\"now\" qaysi zamon signali?",
+          "a": "Present Continuous",
+          "options": [
+            "Present Continuous",
+            "Present Simple",
+            "Past Simple"
+          ],
+          "explain": "Now = hozir, davom etayotgan ish."
+        },
+        {
+          "q": "\"tomorrow\" qaysi zamon signali?",
+          "a": "Future (will / going to)",
+          "options": [
+            "Future (will / going to)",
+            "Present Simple",
+            "Past Simple"
+          ],
+          "explain": "Tomorrow = ertaga."
+        },
+        {
+          "q": "\"usually\" qaysi zamon signali?",
+          "a": "Present Simple",
+          "options": [
+            "Present Simple",
+            "Present Continuous",
+            "Future"
+          ],
+          "explain": "Usually = odatda, takroriy ish."
+        },
+        {
+          "q": "\"at the moment\" qaysi zamon signali?",
+          "a": "Present Continuous",
+          "options": [
+            "Present Continuous",
+            "Past Simple",
+            "Present Simple"
+          ],
+          "explain": "At the moment = hozirda."
+        },
+        {
+          "q": "\"last week\" qaysi zamon signali?",
+          "a": "Past Simple",
+          "options": [
+            "Past Simple",
+            "Present Simple",
+            "Future"
+          ],
+          "explain": "Last week = o'tgan hafta."
+        },
+        {
+          "q": "\"next year\" qaysi zamon signali?",
+          "a": "Future (will / going to)",
+          "options": [
+            "Future (will / going to)",
+            "Past Simple",
+            "Present Continuous"
+          ],
+          "explain": "Next year = kelasi yil."
+        },
+        {
+          "q": "\"always\" qaysi zamon signali?",
+          "a": "Present Simple",
+          "options": [
+            "Present Simple",
+            "Present Continuous",
+            "Past Simple"
+          ],
+          "explain": "Always — takroriy ish chastotasi."
+        },
+        {
+          "q": "\"two days ago\" qaysi zamon signali?",
+          "a": "Past Simple",
+          "options": [
+            "Past Simple",
+            "Present Simple",
+            "Future"
+          ],
+          "explain": "Ago = oldin, o'tgan zamon."
+        },
+        {
+          "q": "\"Look!\" qaysi zamon signali?",
+          "a": "Present Continuous",
+          "options": [
+            "Present Continuous",
+            "Present Simple",
+            "Past Simple"
+          ],
+          "explain": "\"Look!\" = hozir ko'rinib turgan voqea."
+        },
+        {
+          "q": "\"in 2010\" qaysi zamon signali?",
+          "a": "Past Simple",
+          "options": [
+            "Past Simple",
+            "Present Simple",
+            "Future"
+          ],
+          "explain": "O'tgan yil → Past Simple."
+        },
+        {
+          "q": "\"often\" qaysi zamon signali?",
+          "a": "Present Simple",
+          "options": [
+            "Present Simple",
+            "Present Continuous",
+            "Future"
+          ],
+          "explain": "Often = tez-tez, odat."
+        },
+        {
+          "q": "\"Listen!\" qaysi zamon signali?",
+          "a": "Present Continuous",
+          "options": [
+            "Present Continuous",
+            "Present Simple",
+            "Past Simple"
+          ],
+          "explain": "\"Listen!\" — hozir eshitilayotgan ish."
+        },
+        {
+          "q": "Soat bilan (7 o'clock) qaysi predlog kerak?",
+          "a": "at",
+          "options": [
+            "at",
+            "in",
+            "on"
+          ],
+          "explain": "Aniq soat bilan doim \"at\"."
+        },
+        {
+          "q": "Kun nomi (Monday) bilan qaysi predlog kerak?",
+          "a": "on",
+          "options": [
+            "on",
+            "in",
+            "at"
+          ],
+          "explain": "Hafta kuni bilan \"on\"."
+        },
+        {
+          "q": "Oy va yil (May, 2020) bilan qaysi predlog kerak?",
+          "a": "in",
+          "options": [
+            "in",
+            "on",
+            "at"
+          ],
+          "explain": "Oy, yil, fasl bilan \"in\"."
+        },
+        {
+          "q": "\"I think\" qaysi kelasi zamon shakli bilan keladi?",
+          "a": "will",
+          "options": [
+            "will",
+            "going to",
+            "Present Simple"
+          ],
+          "explain": "\"I think\", \"probably\", \"I'm sure\" — taxmin, will bilan."
+        },
+        {
+          "q": "\"Look at the clouds!\" qaysi kelasi zamon shakli bilan keladi?",
+          "a": "going to",
+          "options": [
+            "going to",
+            "will",
+            "Past Simple"
+          ],
+          "explain": "Ko'rinib turgan belgi → am/is/are going to."
+        },
+        {
+          "q": "\"I've bought tickets\" (chipta olganman) qaysi shaklni talab qiladi?",
+          "a": "going to",
+          "options": [
+            "going to",
+            "will",
+            "Present Simple"
+          ],
+          "explain": "Oldindan tayyorgarlik = reja → going to."
+        },
+        {
+          "q": "\"I promise\" qaysi shaklni talab qiladi?",
+          "a": "will",
+          "options": [
+            "will",
+            "going to",
+            "Past Simple"
+          ],
+          "explain": "Va'da berish → will."
+        },
+        {
+          "q": "\"probably\" qaysi shaklni talab qiladi?",
+          "a": "will",
+          "options": [
+            "will",
+            "going to",
+            "Present Continuous"
+          ],
+          "explain": "Probably = ehtimol, taxmin → will."
+        },
+        {
+          "q": "\"tonight\" qaysi zamon signali?",
+          "a": "Future (will / going to)",
+          "options": [
+            "Future (will / going to)",
+            "Past Simple",
+            "Present Simple"
+          ],
+          "explain": "Tonight = bugun kechqurun (hali kelmagan vaqt)."
+        },
+        {
+          "q": "\"soon\" qaysi zamon signali?",
+          "a": "Future (will / going to)",
+          "options": [
+            "Future (will / going to)",
+            "Past Simple",
+            "Present Simple"
+          ],
+          "explain": "Soon = tez orada, kelasi zamon."
+        },
+        {
+          "q": "\"won't\" nimani bildiradi?",
+          "a": "will not (kelasi zamon inkori)",
+          "options": [
+            "will not (kelasi zamon inkori)",
+            "was not",
+            "do not"
+          ],
+          "explain": "won't = will not, kelasi zamonning inkor shakli."
+        },
+        {
+          "q": "\"last night\" qaysi zamon signali?",
+          "a": "Past Simple",
+          "options": [
+            "Past Simple",
+            "Present Simple",
+            "Future"
+          ],
+          "explain": "Last night = kecha kechqurun, o'tgan zamon."
+        },
+        {
+          "q": "\"on Sundays\" qaysi zamon signali?",
+          "a": "Present Simple",
+          "options": [
+            "Present Simple",
+            "Present Continuous",
+            "Past Simple"
+          ],
+          "explain": "On Sundays = yakshanba kunlari, takroriy ish."
+        },
+        {
+          "q": "\"right now\" qaysi zamon signali?",
+          "a": "Present Continuous",
+          "options": [
+            "Present Continuous",
+            "Present Simple",
+            "Future"
+          ],
+          "explain": "Right now = aynan hozir, davom etayotgan ish."
+        },
+        {
+          "q": "\"in 2030\" qaysi zamon signali?",
+          "a": "Future (will / going to)",
+          "options": [
+            "Future (will / going to)",
+            "Past Simple",
+            "Present Simple"
+          ],
+          "explain": "2030 hali kelmagan yil."
+        },
+        {
+          "q": "\"never\" qaysi zamon signali?",
+          "a": "Present Simple",
+          "options": [
+            "Present Simple",
+            "Present Continuous",
+            "Past Simple"
+          ],
+          "explain": "Never = hech qachon, takroriylik (chastota) so'zi."
+        }
+      ]
+    }
+  ]
+}
